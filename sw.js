@@ -13,6 +13,12 @@ const CORE_ASSETS = [
   "./icons/icon-maskable-512.png",
 ];
 
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
 self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_VERSION).then((cache) => cache.addAll(CORE_ASSETS)).then(() => self.skipWaiting())

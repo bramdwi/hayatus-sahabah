@@ -323,7 +323,33 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("sw.js").catch(() => {});
+      navigator.serviceWorker
+        .register("sw.js")
+        .then((reg) => {
+          // Actively ask the browser to re-check sw.js against the server
+          // (bypasses the update-hell of an old worker sitting in "waiting").
+          reg.update().catch(() => {});
+          if (reg.waiting) reg.waiting.postMessage({ type: "SKIP_WAITING" });
+          reg.addEventListener("updatefound", () => {
+            const fresh = reg.installing;
+            if (!fresh) return;
+            fresh.addEventListener("statechange", () => {
+              if (fresh.state === "installed" && navigator.serviceWorker.controller) {
+                fresh.postMessage({ type: "SKIP_WAITING" });
+              }
+            });
+          });
+        })
+        .catch(() => {});
+
+      // When the new worker takes control, reload exactly once so the page
+      // picks up the matching app.js/data.js instead of stale cached assets.
+      let reloaded = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (reloaded) return;
+        reloaded = true;
+        location.reload();
+      });
     });
   }
 
