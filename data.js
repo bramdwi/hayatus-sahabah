@@ -765,7 +765,501 @@ const HAYATUS_DATA = {
       "Namun ketika beliau baru saja berbalik melangkah, Abu Thalib segera memanggilnya kembali, \"Kemarilah, wahai putra saudaraku!\" Rasulullah ﷺ pun datang mendekatinya, lalu Abu Thalib berkata dengan penuh ketegasan: \"Pergilah engkau, wahai putra saudaraku, dan katakanlah apa saja yang engkau sukai!",
       "Maka demi Allah, aku tidak akan pernah menyerahkanmu kepada mereka demi urusan apa pun untuk selama-lamanya!\" Kisah keteguhan dan pembelaan pamannya ini tercantum di dalam kitab Al-Bidayah."
      ]
-    }
+    }, 
+    {
+     "id": 58,
+     "title": "Tawaran Pertukaran Pemuda dari Kaum Quraisy Kepada Abu Thalib",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika kaum Quraisy mengetahui bahwa Abu Thalib telah menolak untuk menyerahkan Rasulullah, dan ia justru telah menyatakan tekadnya untuk berpisah serta memusuhi mereka demi membela keponakannya, mereka pun segera merancang strategi lain.",
+      "Mereka berangkat menemui Abu Thalib dengan membawa seorang pemuda bernama Umarah bin al-Walid bin al-Mughirah.",
+      "Para pemuka Quraisy berkata, \"Wahai Abu Thalib, sesungguhnya ini adalah Umarah bin al-Walid. Dia adalah seorang pemuda yang paling gagah perkasa (anhadu) dan paling tampan di kalangan kabilah Quraisy. Maka ambillah dia! Engkau akan mendapatkan kecerdasan serta pembelaannya, dan jadikanlah dia sebagai anakmu sehingga dia menjadi milikmu. Namun sebagai gantinya, serahkanlah kepada kami putra saudaraku ini (Nabi Muhammad ﷺ) yang telah menyalahi agamamu dan agama nenek moyangmu, mencerai-beraikan persatuan kaummu, dan menganggap bodoh akal pikiran mereka, agar kami dapat membunuhnya! Sungguh, ini adalah pertukaran pria dengan pria!\"",
+      "Mendengar tawaran tersebut, Abu Thalib memberikan jawaban yang sangat tegas, \"Demi Allah, alangkah buruknya perkara yang kalian tawarkan kepadaku ini! Apakah kalian ingin menyerahkan putra kalian kepadaku agar aku memberi makan dan mendidiknya untuk kalian, sementara aku harus menyerahkan putra saudaraku kepada kalian agar kalian dapat membunuhnya?! Demi Allah, perkara ini tidak akan pernah terjadi untuk selama-lamanya!\"",
+      "Al-Muth'im bin Adi bin Naufal bin Abdi Manaf yang ikut hadir saat itu angkat bicara, \"Demi Allah, wahai Abu Thalib, sesungguhnya kaummu telah bersikap adil kepadamu, dan mereka telah berusaha keras untuk melepaskanmu dari perkara yang engkau benci. Namun aku melihat engkau sama sekali tidak mau menerima satu pun penawaran dari mereka.\"",
+      "Abu Thalib langsung menyela perkataan Al-Muth'im, \"Demi Allah, mereka tidak bersikap adil kepadaku! Akan tetapi, engkau sendiri telah bertekad untuk menghinakan aku dan menggerakkan kaummu untuk melawanku. Maka perbuatlah apa saja yang engkau suka!\"",
+      "Setelah penolakan keras dari Abu Thalib itu, urusan di antara mereka pun semakin memuncak, dan perang telah siap untuk berkobar. Kisah ketegasan Abu Thalib menghadapi tawaran kaum Quraisy ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 59,
+     "title": "Perlindungan Bani Hasyim dan Bani Al-Muthalib terhadap Rasulullah ﷺ",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika Abu Thalib melihat kaum Quraisy telah menampakkan permusuhan secara terang-terangan, serta mereka telah bersepakat untuk melawan dan mengasingkan Rasulullah beserta siapa saja yang membelinya, ia segera bertindak.",
+      "Abu Thalib mengumpulkan seluruh kerabatnya dari kalangan bani Hasyim dan bani Al-Muthalib untuk masuk bersamanya ke dalam syi'ib (lembah) miliknya, demi menjaga dan melindungi Rasulullah dari makar kaum Quraisy.",
+      "Seruan Abu Thalib tersebut disambut baik oleh seluruh anggota bani Hasyim dan bani Al-Muthalib.",
+      "Mereka semua sepakat untuk ikut masuk ke dalam lembah bersamanya dan berdiri membentengi Rasulullah baik mereka yang telah memeluk Islam karena dorongan agama, maupun mereka yang masih kafir karena didorong oleh rasa solidaritas kesukuan (hamiyyah).",
+      "Namun, ada satu orang dari kalangan bani Hasyim yang memilih memisahkan diri dan menolak ikut serta.",
+      "Ia adalah Abu Lahab, Abdul Uzza bin Abdul Muthalib. Abu Lahab justru keluar meninggalkan kaumnya dan bergabung bersama kabilah Quraisy untuk membantu mereka dalam memusuhi serta melawan Rasulullah.",
+      "Peristiwa penggalangan kekuatan dan pengasingan di dalam lembah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 60,
+     "title": "Pemboikotan Total Kaum Quraisy Terhadap Bani Hasyim dan Bani Al-Muthalib",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika kabilah-kabilah dari kaum Quraisy melihat bani Hasyim dan bani Al-Muthalib telah bersepakat untuk melindungi Rasulullah ﷺ serta menolak menyerahkannya, mereka segera berkumpul untuk mengadakan musyawarah.",
+      "Mereka menyadari bahwa kekuatan bersenjata tidak lagi efektif selama Abu Thalib dan kaumnya bersatu membentengi beliau.",
+      "Oleh karena itu, kaum Quraisy memutuskan untuk menulis sebuah piagam perjanjian (shahīfah).",
+      "Di dalam piagam tersebut, mereka menetapkan keputusan bersama untuk melakukan pemboikotan total: mereka tidak akan menikahi wanita dari kalangan bani Hasyim dan bani Al-Muthalib, tidak akan menikahkan putri-putri mereka dengan pria dari kedua bani tersebut, tidak akan menjual sesuatu pun kepada mereka, dan tidak akan membeli apa pun dari mereka.",
+      "Mereka bersepakat secara mutlak untuk memutuskan segala bentuk hubungan sampai kedua bani itu bersedia menyerahkan Rasulullah kepada mereka untuk dibunuh.",
+      "Setelah piagam perjanjian pemboikotan itu selesai ditulis, mereka menggantungkannya di bagian dalam Ka'bah sebagai bentuk pengukuhan dan sumpah bersama agar tidak ada seorang pun yang berani melanggarnya.",
+      "Peristiwa pemboikotan sepihak dan penulisan piagam ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 61,
+     "title": "Penderitaan Bani Hasyim dan Bani Al-Muthalib di Dalam Lembah",
+     "paragraphs": [
+      "Ibnu Ishaq meneruskan kisahnya bahwasanya setelah piagam pemboikotan itu digantungkan, kaum Quraisy segera memperketat ruang gerak bani Hasyim dan bani Al-Muthalib.",
+      "Kedua bani tersebut, baik yang muslim maupun yang masih kafir, terkurung di dalam lembah (syi'ib) Abu Thalib dalam kondisi yang sangat memprihatinkan.",
+      "Kaum Quraisy sengaja memutus seluruh jalur pasokan makanan dan kebutuhan pokok menuju lembah tersebut.",
+      "Kondisi pemboikotan ini berlangsung dalam waktu yang lama hingga perbekalan yang mereka bawa habis sama sekali.",
+      "Kelaparan yang sangat hebat mulai menimpa penduduk lembah, sampai-sampai terdengar suara tangisan anak-anak kecil dan kaum wanita dari balik lembah karena menahan lapar yang amat sangat.",
+      "Untuk bertahan hidup, mereka terpaksa memakan dedaunan pohon dan kulit-kulit binatang yang kering.",
+      "Tidak ada barang dagangan yang diperbolehkan masuk ke Mekah melainkan kaum Quraisy akan segera memborongnya atau menghalangi para pedagang luar agar tidak menjualnya kepada bani Hasyim dan bani Al-Muthalib.",
+      "Apabila ada kafilah dagang yang tiba dari luar kota Mekah, salah seorang di antara mereka yang berada di dalam lembah mencoba keluar untuk membeli makanan bagi keluarganya.",
+      "Namun, Abu Lahab akan segera berseru kepada para pedagang, \"Wahai para pedagang, tinggikanlah harga barang kalian atas sahabat-sahabat Muhammad agar mereka tidak mampu membelinya! Kalian telah mengetahui hartaku dan kesetiaanku untuk melunasi urusan kalian!\"",
+      "Akibatnya, para pedagang menaikkan harga berlipat ganda, dan perwakilan lembah tersebut terpaksa kembali kepada anak-anaknya dalam kondisi tangan hampa dan kelaparan.",
+      "Kisah penderitaan akibat pemboikotan keji kaum Quraisy ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 62,
+     "title": "Upaya Penyelundupan Makanan ke Lembah oleh Hakim bin Hizam",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya di tengah boikot yang sangat ketat tersebut, beberapa orang dari kaum Quraisy adakalanya berusaha menyelundupkan makanan secara sembunyi-sembunyi demi menolong kerabat mereka di dalam lembah. Di antara mereka adalah Hakim bin Hizam bin Khuwailid.",
+      "Suatu hari, Hakim bin Hizam pergi membawa gandum yang dipikul oleh pelayannya dengan tujuan untuk mengantarkannya kepada bibinya, Khadijah binti Khuwailid radhiyallahu 'anha, yang saat itu sedang berada di dalam lembah bersama Rasulullah.",
+      "Namun, di tengah jalan, Abu Jahl bin Hisyam memergokinya dan langsung menghalanginya.",
+      "Abu Jahl berseru dengan penuh kemarahan, \"Apakah engkau pergi membawa makanan ini untuk bani Hasyim?! Demi Allah, engkau beserta makananmu ini tidak boleh bergeser sedikit pun hingga aku mempermalukanmu di kota Mekah!\"",
+      "Tiba-tiba, Abul Bukhturi bin Hisyam lewat di dekat mereka berdua dan bertanya, \"Ada apa urusan antara kalian berdua ini?\"",
+      "Abu Jahl menjawab, \"Dia ingin membawa makanan untuk bani Hasyim!\"",
+      "Abul Bukhturi kemudian berkata, \"Itu adalah makanan milik bibinya yang dikirimkan kepadanya, dan dia memiliki titipan gandum tersebut pada dirinya. Apakah engkau hendak menghalanginya untuk mengantarkan makanan milik bibinya sendiri?! Biarkanlah jalan pria ini!\"",
+      "Namun, Abu Jahl tetap menolak keras dan bersikeras untuk menghalanginya, hingga akhirnya terjadilah pertengkaran mulut di antara keduanya.",
+      "Abul Bukhturi yang merasa geram segera mengambil tulang rahang unta yang ia temukan di dekatnya, lalu ia memukulkannya ke arah kepala Abu Jahl hingga melukainya, kemudian ia menginjak-injaknya dengan keras. Saat peristiwa pemukulan itu terjadi, Hamzah bin Abdul Muthalib radhiyallahu 'anhu sedang berada di tempat yang tidak jauh dari sana dan menyaksikan seluruh kejadian tersebut.",
+      "Pihak kaum Quraisy sendiri sebenarnya sangat tidak menyukai jika kabar tentang penderitaan dan pertengkaran di antara mereka ini sampai terdengar oleh Rasulullah beserta para sahabatnya, karena hal itu akan membuat mereka terkesan lemah dan saling berselisih.",
+      "Kisah pencegatan makanan dan perselisihan di antara kaum Quraisy ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 63,
+     "title": "Kesepakatan Lima Tokoh Quraisy untuk Membatalkan Pemboikotan",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya bani Hasyim dan bani Al-Muthalib menetap di dalam lembah tersebut selama dua atau tiga tahun, hingga mereka benar-benar mengalami penderitaan yang sangat berat.",
+      "Setelah itu, terjadilah pergerakan dari beberapa orang pemuka kaum Quraisy yang merasa tidak rida terhadap piagam pemboikotan keji tersebut, dan orang yang paling berjasa dalam urusan pembatalan piagam ini adalah Hisyam bin Amr bin Rabi'ah.",
+      "Hisyam bin Amr adalah seorang pria yang sering kali menyelundupkan makanan ke dalam lembah pada malam hari untuk menolong bani Hasyim.",
+      "Suatu hari, ia mendatangi Zuhair bin Abi Umayyah bin al-Mughirah—yang ibunya adalah Atikah binti Abdul Muthalib—lalu berkata, \"Wahai Zuhair, apakah engkau rida bisa mematur makanan, mengenakan pakaian, dan menikahi wanita, sementara paman-pamanmu dari jalur ibu berada dalam kondisi yang engkau sendiri telah mengetahuinya? Mereka tidak boleh membeli, tidak boleh menjual, tidak boleh menikah, dan tidak boleh dinikahi! Demi Allah, seandainya mereka itu adalah paman-paman dari jalur ibu Abu al-Hakam bin Hisyam (Abu Jahl), kemudian engkau mengajaknya untuk melakukan pemboikotan seperti ini, niscaya dia tidak akan pernah mau mengikutimu untuk selama-lamanya!\"",
+      "Zuhair menjawab, \"Celaka engkau, wahai Hisyam! Lalu apa yang bisa aku perbuat? Aku hanyalah seorang diri. Demi Allah, seandainya ada seorang pria lain yang bersamaku, niscaya aku pasti akan bangkit untuk membatalkan piagam pemboikotan itu!\"",
+      "Hisyam berkata, \"Engkau telah mendapatkan seorang pria.\" Zuhair bertanya, \"Siapa dia?\" Hisyam menjawab, \"Aku sendiri.\"",
+      "Zuhair berkata, \"Kalau begitu, carilah orang ketiga untuk kita.\" Hisyam kemudian pergi mendatangi Al-Mut'im bin Adi.",
+      "Ia mengingatkan Al-Mut'im tentang hubungan kekerabatan mereka dengan bani Hasyim dan bani Al-Muthalib, serta mencela tindakan zalim kaum Quraisy.",
+      "Al-Mut'im berkata, \"Celaka engkau! Lalu siapa lagi yang bersamamu?\" Hisyam menjawab, \"Aku dan Zuhair bin Abi Umayyah.\"",
+      "Al-Mut'im berkata, \"Carilah orang keempat untuk kita.\"",
+      "Hisyam lalu pergi mendatangi Abul Bukhturi bin Hisyam, dan ia pun mengatakan perkara yang serupa.",
+      "Abul Bukhturi bertanya, \"Apakah ada orang yang membantumu dalam urusan ini?\"",
+      "Hisyam menjawab, \"Ya, Zuhair bin Abi Umayyah, Al-Mut'im bin Adi, dan aku sendiri.\"",
+      "Abul Bukhturi berkata, \"Carilah orang kelima untuk kita.\"",
+      "Maka Hisyam segera pergi mendatangi Zam'ah bin al-Aswad bin al-Muthalib.",
+      "Ia berbicara kepadanya dan mengingatkan tentang hubungan kekerabatan serta kewajiban mereka terhadap hak-hak kerabat tersebut.",
+      "Zam'ah bertanya, \"Apakah ada orang yang telah menyetujui urusan yang engkau serukan ini?\"",
+      "Hisyam menjawab, \"Ya,\" lalu ia menyebutkan nama empat tokoh yang telah bersepakat sebelumnya.",
+      "Setelah itu, kelima tokoh Quraisy ini berkumpul di Hajuun, yang terletak di bagian atas kota Mekah.",
+      "Di sana, mereka saling menguatkan tekad dan berjanji setia satu sama lain untuk bangkit membatalkan piagam pemboikotan tersebut hingga mereka berhasil melenyapkannya.",
+      "Zuhair berkata, \"Aku yang akan memulai pembicaraan besok, dan akulah orang pertama yang akan angkat bicara di hadapan manusia.\"",
+      "Kisah penggalangan kekuatan untuk merobek piagam pemboikotan ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 64,
+     "title": "Pembatalan Piagam Pemboikotan di Hadapan Kaum Quraisy",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya keesokan harinya, kelima tokoh tersebut segera pergi menuju tempat berkumpulnya kaum Quraisy.",
+      "Zuhair bin Abi Umayyah mengenakan pakaian indahnya, lalu ia melakukan tawaf di Ka'bah sebanyak tujuh kali putaran.",
+      "Setelah selesai tawaf, ia berdiri menghadap ke arah orang-orang yang sedang berkumpul dan berseru dengan suara lantang, \"Wahai penduduk Mekah, apakah kita tega memakan makanan dan mengenakan pakaian, sementara bani Hasyim binasa dalam kondisi mereka tidak boleh membeli dan tidak boleh menjual?! Demi Allah, aku tidak akan pernah duduk tenang sampai piagam pemboikotan yang zalim dan keji ini robek!\"",
+      "Abu Jahl bin Hisyam yang saat itu berada di salah satu sudut masjid langsung berteriak menentang, \"Engkau berdusta, demi Allah, piagam itu tidak akan boleh dirobek!\"",
+      "Zam'ah bin al-Aswad segera menyela perkataan Abu Jahl, \"Engkau yang lebih berdusta, demi Allah! Kami sendiri tidak rida dengan penulisan piagam itu sejak pertama kali piagam tersebut ditulis.\"",
+      "Abul Bukhturi bin Hisyam turut menimpali, \"Zam'ah benar. Kami tidak rida dengan apa yang tertulis di dalam piagam itu, dan kami tidak mengakuinya.\"",
+      "Al-Mut'im bin Adi ikut menegaskan, \"Kalian berdua benar, dan orang yang mengatakan selain itu adalah berdusta. Kami berlepas diri kepada Allah dari piagam tersebut dan dari apa yang tertulis di dalamnya.\"",
+      "Hisyam bin Amr pun mengucapkan perkataan yang serupa untuk mendukung mereka.",
+      "Melihat kekompakan mereka, Abu Jahl menjadi terkejut dan berkata, \"Urusan ini pasti telah direncanakan dan diputuskan pada malam hari di tempat lain.\"",
+      "Sementara pertengkaran itu terjadi, Al-Mut'im bin Adi melangkah maju mendekati tempat piagam perjanjian itu digantungkan di dalam Ka'bah dengan tujuan untuk merobeknya.",
+      "Namun, ia terkejut ketika mendapati bahwasanya rayap telah memakan seluruh bagian isi piagam tersebut, kecuali bagian tulisan yang memuat nama Allah, yaitu kalimat \"Bismika Allahumma\" (Dengan nama-Mu, ya Allah).",
+      "Ibnu Ishaq menceritakan bahwasanya pembuat tulisan piagam pemboikotan tersebut bernama Manshur bin Ikrimah.",
+      "Setelah peristiwa penulisan piagam yang zalim itu, tangan Manshur bin Ikrimah dikabarkan mengalami kelumpuhan.",
+      "Kisah berakhirnya pemboikotan ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 65,
+     "title": "Wafatnya Abu Thalib dan Kesedihan Rasulullah ﷺ",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya tidak lama setelah bani Hasyim dan bani Al-Muthalib keluar dari lembah pengasingan, kondisi kesehatan Abu Thalib semakin hari semakin menurun.",
+      "Usianya yang telah lanjut serta beban penderitaan selama bertahun-tahun di dalam lembah membuat fisiknya kian melemah, hingga akhirnya ia jatuh sakit.",
+      "Ketika kaum Quraisy mengetahui bahwasanya Abu Thalib telah berada dalam kondisi kritis menjelang wafatnya, mereka saling berkata satu sama lain, \"Sesungguhnya Hamzah dan Umar telah memeluk Islam, dan urusan Muhammad telah tersebar di seluruh kabilah-kabilah Arab. Maka pergilah kalian menemui Abu Thalib, agar dia dapat membuat sebuah perjanjian untuk kita dengan putra saudaranya. Demi Allah, kita tidak akan merasa aman jika orang tua ini wafat, lalu bangsa Arab akan menuduh kita telah berbuat sewenang-wenang kepadanya setelah kematian pamannya.\"",
+      "Maka perwakilan tokoh Quraisy yang di antaranya terdiri dari Utbah bin Rabi'ah, Syaibah bin Rabi'ah, Abu Jahl bin Hisyam, dan Umayyah bin Khalaf segera pergi mendatangi Abu Thalib.",
+      "Begitu mereka masuk, mereka mendatangi Rasulullah yang sudah berada di dekat kepala pamannya.",
+      "Di sana juga terdapat Abu Jahl yang duduk menemani. Rasulullah kemudian mendekatkan wajahnya ke telinga Abu Thalib lalu bersabda dengan penuh harap: \"Wahai pamanku, ucapkanlah La ilaha illallah (Tidak ada tuhan selain Allah), sebuah kalimat yang dengannya aku dapat membelamu dan memberikan kesaksian untukmu di hadapan Allah kelak!\"",
+      "Mendengar bisikan itu, Abu Jahl dan Abdullah bin Abi Umayyah segera menyela dengan berseru, \"Wahai Abu Thalib, apakah engkau akan membenci agama Abdul Muthalib?!\"",
+      "Mereka berdua terus-menerus mengulangi perkataan tersebut setiap kali Rasulullah ﷺ mengulangi ajakannya kepada sang paman.",
+      "Hingga akhirnya, kalimat terakhir yang diucapkan oleh Abu Thalib sebelum napas terakhirnya adalah bahwasanya dia tetap berada di atas agama Abdul Muthalib, dan dia menolak untuk mengucapkan kalimat tauhid tersebut.",
+      "Abu Thalib wafat dalam kondisi belum memeluk Islam.",
+      "Rasulullah sangat bersedih atas wafatnya sang paman, lalu beliau bersabda, \"Sungguh, aku benar-benar akan memohonkan ampunan untukmu selama aku tidak dilarang untuk melakukannya.\" Maka sehubungan dengan peristiwa wafatnya Abu Thalib ini, Allah menurunkan firman-Nya di dalam Al-Qur'an: \"Tiadalah sepatutnya bagi Nabi dan orang-orang yang beriman memohonkan ampunan (kepada Allah) bagi orang-orang musyrik, walaupun orang-orang musyrik itu adalah kaum kerabat (mereka), sesudah jelas bagi mereka, bahwasanya orang-orang musyrik itu adalah penghuni neraka Jahanam.\" (QS. At-Tawbah: 113).",
+      "Serta firman Allah yang ditujukan langsung kepada Rasulullah terkait hidayah: \"Sesungguhnya kamu tidak akan dapat memberi petunjuk kepada orang yang kamu kasihi, tetapi Allah memberi petunjuk kepada orang yang dikehendaki-Nya, dan Allah lebih mengetahui orang-orang yang mau menerima petunjuk.\" (QS. Al-Qashas: 56).",
+      "Kisah tentang akhir hayat Abu Thalib dan kesedihan mendalam yang menimpa beliau ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 66,
+     "title": "Wafatnya Khadijah binti Khuwailid radhiyallahu 'anha",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan riwayatnya di dalam kitab Al-Bidayah bahwasanya cobaan yang menimpa Rasulullah tidak berhenti sampai di situ.",
+      "Hanya berselang beberapa bulan—ada yang meriwayatkan tiga hari setelah wafatnya Abu Thalib—istri tercinta beliau, Ummul Mukminin Khadijah binti Khuwailid radhiyallahu 'anha, juga wafat menemui Tuhannya.",
+      "Wafatnya Khadijah radhiyallahu 'anha menjadi pukulan yang amat berat bagi Rasulullah ﷺ.",
+      "Selama ini, Khadijah adalah sosok istri yang setia mendampingi beliau, menghibur beliau di kala sedih, menguatkan hati beliau di saat menerima wahyu, dan menyerahkan seluruh harta bendanya demi membela dakwah Islam.",
+      "Setiap kali Rasulullah mendapatkan penolakan, cercaan, atau perlakuan kasar dari kaum Quraisy, beliau akan pulang menemui Khadijah, dan Khadijah selalu berhasil menenangkan serta meringankan kesedihan beliau.",
+      "Dengan wafatnya Abu Thalib dan Khadijah radhiyallahu 'anha dalam waktu yang berdekatan, Rasulullah kehilangan dua orang pembela dan pelindung terdekatnya.",
+      "Kepergian dua sosok ini membuat kaum Quraisy semakin berani dan leluasa dalam melancarkan gangguan, siksaan, serta intimidasi secara fisik kepada Rasulullah, suatu hal yang sebelumnya tidak berani mereka lakukan secara terang-terangan karena segan terhadap perlindungan Abu Thalib.",
+      "Karena bertumpuknya kesedihan yang dialami oleh Rasulullah pada masa ini, tahun tersebut dikenal di dalam sejarah dengan sebutan 'Amul Huzni (Tahun Kesedihan).",
+      "Kisah pilu wafatnya Ibunda Khadijah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 67,
+     "title": "Gangguan Kaum Quraisy yang Semakin Meningkat Setelah Wafatnya Abu Thalib",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah wafatnya Abu Thalib, kaum Quraisy melancarkan berbagai bentuk gangguan dan perlakuan kasar kepada Rasulullah yang sebelumnya tidak pernah berani mereka lakukan semasa hidup Abu Thalib.",
+      "Pernah suatu ketika, salah seorang bodoh dari kalangan Quraisy menghadang Rasulullah di tengah jalan, lalu orang tersebut melemparkan tanah ke atas kepala beliau.",
+      "Rasulullah kemudian pulang ke rumahnya dalam kondisi tanah masih berlumuran di atas kepalanya.",
+      "Melihat kondisi tersebut, salah seorang putri beliau segera bangkit untuk membersihkan tanah dari kepala ayahandanya seraya menangis.",
+      "Rasulullah bersabda untuk menenangkan putrinya: \"Janganlah engkau menangis, wahai putriku! Sesungguhnya Allah akan bentengi dan lindungi ayahmu.\"",
+      "Di sela-sela membersihkan kepala beliau, Rasulullah juga bersabda: \"Kaum Quraisy tidak pernah melakukan sesuatu yang sangat aku benci pada diriku melainkan setelah Abu Thalib wafat.\"",
+      "Kisah mengenai meningkatnya intimidasi fisik kaum Quraisy pasca-wafatnya pelindung beliau ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 68,
+     "title": "Perjalanan Rasulullah ﷺ Menuju Thaif Demi Mencari Pembelaan",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika gangguan kaum Quraisy semakin keras menimpa diri beliau setelah wafatnya Abu Thalib, Rasulullah ﷺ memutuskan untuk bertolak menuju Thaif.",
+      "Beliau pergi ke sana dengan harapan dapat mencari pembelaan serta perlindungan dari kabilah Tsaqif, sekaligus mengajak mereka untuk menerima agama yang beliau bawa dari sisi Allah.",
+      "Rasulullah ﷺ berangkat menuju Thaif seorang diri tanpa ditemani oleh siapa pun.",
+      "Sesampainya di Thaif, Rasulullah segera menemui para pemuka kabilah Tsaqif yang memegang kendali urusan masyarakat pada masa itu.",
+      "Mereka adalah tiga bersaudara yang merupakan putra dari Amr bin Umair bin Auf, yaitu Abdu Yailil, Mas'ud, dan Habib.",
+      "Salah seorang di antara mereka memiliki istri dari kalangan wanita Quraisy dari bani Jumah.",
+      "Rasulullah kemudian duduk bersama mereka, mengajak mereka untuk beriman kepada Allah, serta menyampaikan maksud kedatangan beliau untuk meminta bantuan agar mereka bersedia membentengi beliau dari tindakan kaumnya sendiri yang telah menentang dakwah Islam.",
+      "Namun, ketiga pemuka Tsaqif tersebut memberikan penolakan yang sangat kasar.",
+      "Salah seorang di antara mereka berkata, \"Dia (Muhammad) akan merobek kain Ka'bah seandainya benar Allah telah mengutusmu sebagai rasul!\"",
+      "Yang lainnya menimpali, \"Apakah Allah tidak menemukan orang lain selain dirimu untuk diutus?\"",
+      "Dan yang ketiga berkata, \"Demi Allah, aku tidak akan pernah berbicara denganmu sama sekali! Jika engkau benar-benar seorang rasul sebagaimana yang engkau katakan, maka kedudukanmu terlalu agung untuk aku bantah perkataannya. Namun jika engkau seorang pendusta atas nama Allah, maka tidak pantas bagiku untuk berbicara denganmu!\"",
+      "Mendengar penolakan dan sikap keras kepala dari para pemuka Tsaqif tersebut, Rasulullah ﷺ segera bangkit untuk meninggalkan mereka.",
+      "Sebelum pergi, beliau bersabda kepada mereka, \"Jika kalian telah memperbuat perkara ini, maka sembunyikanlah urusan ini dari orang lain (jangan kabarkan kepada kaum Quraisy).\" Rasulullah tidak menyukai jika kabar penolakan ini sampai ke telinga kaum Quraisy sehingga akan membuat mereka semakin berani untuk menindas beliau.",
+      "Kisah perjalanan dan penolakan kabilah Tsaqif ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 69,
+     "title": "Pengusiran dan Pelemparan Batu oleh Penduduk Thaif",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya para pemuka kabilah Tsaqif menolak untuk menyembunyikan kedatangan Rasulullah. Sebaliknya, mereka justru menghasut orang-orang bodoh, para budak, dan kaum jelata di antara mereka untuk bersorak-sorai dan mengusir beliau.",
+      "Ketika Rasulullah hendak keluar meninggalkan kota Thaif, orang-orang bodoh tersebut telah berbaris di kanan dan kiri jalan yang akan dilalui oleh beliau.",
+      "Mereka mulai mencaci maki dan melempari kaki Rasulullah dengan batu secara bertubi-tubi.",
+      "Pelemparan batu yang keji itu membuat kedua alas kaki beliau berlumuran darah.",
+      "Beliau terus berjalan dalam kondisi terluka hingga akhirnya berhasil menjauh dari kejaran penduduk Thaif dan sampai di sebuah kebun anggur milik Utbah bin Rabi'ah dan Syaibah bin Rabi'ah, dua bersaudara dari pemuka Quraisy.",
+      "Di kebun itulah Rasulullah berteduh di bawah naungan sebatang pohon anggur untuk merawat luka-lukanya.",
+      "Sementara itu, Utbah dan Syaibah yang sedang berada di dalam kebun memperhatikan Rasulullah dan menyaksikan perlakuan kasar yang baru saja menimpa diri beliau.",
+      "Rasa iba kerabat muncul di dalam hati keduanya melihat kondisi beliau yang sangat kepayahan.",
+      "Maka, mereka memanggil seorang pelayan mereka yang beragama Kristen bernama Addas.",
+      "Utbah dan Syaibah berkata kepada pelayannya, \"Ambillah setangkai buah anggur ini, letakkan di atas wadah, lalu bawalah kepada pria yang sedang berteduh di sana dan katakan kepadanya agar dia memakannya!\"",
+      "Addas segera melaksanakan perintah tersebut. Ia membawa wadah berisi anggur itu lalu meletakkannya di hadapan Rasulullah seraya berkata, \"Makanlah.\"",
+      "Ketika Rasulullah hendak mengulurkan tangannya untuk mengambil buah anggur tersebut, beliau mengucapkan: \"Bismillah\" (Dengan nama Allah).",
+      "Setelah itu, barulah beliau memakannya. Addas yang mendengar ucapan tersebut langsung tertegun, lalu ia memperhatikan wajah beliau dengan saksama dan berkata, \"Demi Allah, sesungguhnya kalimat ini sama sekali tidak pernah diucapkan oleh penduduk negeri ini!\"",
+      "Kisah mengenai penderitaan Rasulullah di Thaif dan pertemuannya dengan Addas ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 70,
+     "title": "Dialog Antara Rasulullah ﷺ dengan Addas di Kebun Anggur",
+     "paragraphs": [
+      "Rasulullah kemudian berpaling kepada Addas dan bertanya, \"Dari negeri manakah engkau berasal, wahai Addas? Dan apa agamamu?\" Addas menjawab, \"Aku adalah seorang Kristen, dan aku berasal dari penduduk negeri Ninawa.\"",
+      "Rasulullah ﷺ bersabda, \"Apakah engkau berasal dari negeri seorang pria yang saleh, Yunus bin Matta?\" Addas terkejut mendengar penuturan itu lalu bertanya, \"Bagaimana engkau bisa mengetahui siapa Yunus bin Matta?!\"",
+      "Rasulullah memberikan jawaban kepada dirinya: \"Dia adalah saudaraku. Dia dahulu adalah seorang nabi, dan aku pun adalah seorang nabi.\"",
+      "Mendengar penjelasan tersebut, Addas langsung merunduk dan mencium kepala Rasulullah ﷺ serta mencium kedua tangan dan kedua kaki beliau yang sebelumnya terluka akibat lemparan batu.",
+      "Sementara itu, Utbah dan Syaibah memperhatikan apa yang dilakukan oleh pelayan mereka dari kejauhan.",
+      "Salah seorang di antara mereka berkata kepada saudaranya, \"Sungguh, pria itu telah merusak pelayanmu!\"",
+      "Maka ketika Addas telah kembali menemui keduanya, Utbah dan Syaibah langsung menegurnya dengan berkata, \"Celaka engkau, wahai Addas! Apa yang membuatmu mencium kepala, kedua tangan, dan kedua kaki pria itu?!\"",
+      "Addas menjawab dengan penuh keyakinan: \"Wahai tuanku, tidak ada satu pun urusan di atas bumi ini yang lebih baik daripada apa yang dibawa oleh pria itu! Sungguh, dia telah mengabarkan kepadaku tentang suatu perkara yang tidak ada yang mengetahuinya melainkan seorang nabi!\"",
+      "Utbah dan Syaibah membalas perkataan pelayannya, \"Celaka engkau, wahai Addas! Jangan sampai dia memalingkanmu dari agamamu, karena sesungguhnya agamamu saat ini masih lebih baik daripada agamanya!\"",
+      "Kisah dialog dan keislaman Addas di bawah pohon anggur ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 71,
+     "title": "Perlindungan Al-Muth'im bin Adi Kepada Rasulullah ﷺ Saat Kembali ke Mekah",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah peristiwa di Thaif tersebut, Rasulullah ﷺ bersiap untuk kembali ke kota Mekah.",
+      "Namun, beliau tidak dapat langsung memasuki kota karena mengetahui bahwa kaum Quraisy telah meningkatkan permusuhan secara terang-terangan setelah wafatnya Abu Thalib.",
+      "Oleh karena itu, beliau mengutus seorang pria untuk menemui Al-Akhnas bin Syuraiq guna meminta perlindungan (jiwār), namun Al-Akhnas menolak dengan alasan bahwa seorang sekutu tidak dapat memberikan perlindungan di atas kabilah asli.",
+      "Rasulullah mengutus orang untuk menemui Suhail bin Amr, namun Suhail juga menolak dengan alasan bahwa bani Amir tidak dapat memberikan perlindungan di atas bani Ka'ab.",
+      "Akhirnya, beliau mengutus utusan kepada Al-Muth'im bin Adi. Mendengar permintaan tersebut, Al-Muth'im bin Adi berkata, \"Benar, aku menerima dan memberikan perlindungan kepadanya.\"",
+      "Al-Muth'im bin Adi segera memerintahkan anak-anaknya dan kaumnya untuk bersiap.",
+      "Ia berkata, \"Kenakanlah senjata kalian, dan berdirilah kalian di sudut-sudut Ka'bah, karena sesungguhnya aku telah memberikan perlindungan kepada Muhammad!\"",
+      "Maka Rasulullah memasuki kota Mekah bersama Zaid bin Haritsah hingga mereka berdua sampai di Masjidil Haram.",
+      "Al-Muth'im bin Adi berdiri di atas untanya lalu berseru dengan suara lantang kepada seluruh kaum Quraisy, \"Wahai segenap kaum Quraisy, sesungguhnya aku telah memberikan perlindungan kepada Muhammad, maka jangan ada seorang pun di antara kalian yang berani mengganggunya!\"",
+      "Rasulullah kemudian menuju rukun Ka'bah lalu menyentuhnya, kemudian beliau melakukan shalat dua rakaat.",
+      "Setelah selesai, beliau berjalan pulang menuju rumahnya dengan dikawal oleh Al-Muth'im bin Adi beserta anak-anaknya yang mengelilingi beliau dengan senjata terhunus hingga beliau masuk ke dalam rumah.",
+      "Kisah tentang jaminan perlindungan Al-Muth'im bin Adi yang menepis intimidasi Quraisy ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 72,
+     "title": "Pertemuan Rasulullah ﷺ dengan Sekelompok Pemuda Khazraj",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah peristiwa jaminan perlindungan dari Al-Muth'im bin Adi tersebut, Rasulullah tetap melanjutkan dakwahnya.",
+      "Ketika musim haji tiba, beliau menggunakan kesempatan itu untuk mendatangi kabilah-kabilah Arab yang datang ke Mekah.",
+      "Beliau menawarkan Islam kepada mereka, menyeru mereka kepada Allah, dan mengabarkan tentang risalah kenabian yang beliau bawa.",
+      "Beliau mendatangi tenda-tenda kabilah tersebut satu per satu, di antaranya adalah kabilah Kinda, Kalb, bani Hanifah, dan bani Amir bin Sha'sha'ah.",
+      "Namun, tidak ada satu pun dari kabilah-kabilah tersebut yang menerima seruan beliau; sebagian menolak dengan halus, sementara yang lain menolak dengan cara yang kasar.",
+      "Hingga akhirnya, ketika Rasulullah berada di Aqabah—sebuah tempat di Mina yang menjadi lokasi pelemparan jumrah—beliau bertemu dengan sekelompok pemuda dari kabilah Khazraj yang berasal dari Yatsrib (Madinah).",
+      "Allah telah berkehendak untuk mendatangkan kebaikan kepada mereka.",
+      "Rasulullah bertanya kepada mereka, \"Siapakah kalian?\" Mereka menjawab, \"Kami adalah sekelompok orang dari kabilah Khazraj.\" Rasulullah bertanya lagi, \"Apakah kalian adalah sekutu dari kaum Yahudi (di Yatsrib)?\" Mereka menjawab, \"Benar.\"",
+      "Beliau bersabda, \"Mengapa kalian tidak duduk terlebih dahulu agar aku dapat berbicara dengan kalian?\" Mereka menjawab, \"Tentu.\"",
+      "Maka mereka pun duduk bersama Rasulullah. Beliau mulai menjelaskan kepada mereka tentang hakikat Islam, menyeru mereka untuk menyembah Allah semata, serta membacakan beberapa ayat dari Al-Qur'an.",
+      "Orang-orang Khazraj ini sebelumnya sering mendengar penuturan dari tetangga mereka, kaum Yahudi di Yatsrib.",
+      "Setiap kali terjadi perselisihan di antara mereka, kaum Yahudi selalu mengancam dengan berkata, \"Sesungguhnya akan segera diutus seorang nabi pada masa ini. Kami akan mengikuti nabi tersebut, dan kami akan memerangi serta membinasakan kalian bersama nabi itu seperti binasanya kaum 'Ad dan Iram!\"",
+      "Begitu para pemuda Khazraj itu mendengarkan penjelasan Rasulullah mereka saling berpandangan dan berbisik satu sama lain, \"Demi Allah, tahukah kalian, sesungguhnya pria ini adalah nabi yang selalu diancamkan oleh kaum Yahudi kepada kita! Maka jangan sampai kaum Yahudi itu mendahului kita untuk beriman kepadanya!\"",
+      "Maka saat itu juga, mereka menyatakan keimanan mereka kepada Rasulullah dan menerima dengan baik ajaran Islam yang beliau sampaikan.",
+      "Kisah awal mula pertemuan yang menjadi titik balik dakwah Islam di Madinah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 73,
+     "title": "Kepulangan Enam Pemuda Khazraj ke Madinah dan Syiar Islam Pertama",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah menyatakan keislaman mereka di hadapan Rasulullah para pemuda dari kabilah Khazraj tersebut berkata kepada beliau: \"Sesungguhnya kami telah meninggalkan kaum kami di Yatsrib, dan tidak ada satu pun kaum yang permusuhan serta keburukan di antara sesamanya lebih parah daripada apa yang terjadi pada mereka (akibat Perang Bu'ats antara Aus dan Khazraj). Maka semoga Allah menyatukan mereka kembali melalui dirimu. Kami akan segera pulang menemui mereka, menyeru mereka kepada urusan agamamu ini, dan menawarkan kepada mereka apa yang telah kami terima darimu berupa Islam ini. Jika Allah menyatukan mereka di atas agamamu, maka tidak ada satu pun pria yang lebih mulia di tengah-tengah mereka daripada dirimu.\"",
+      "Pernyataan tersebut mereka sampaikan seraya berpamitan untuk kembali ke negeri mereka.",
+      "Ibnu Ishaq menyebutkan bahwasanya para pemuda Khazraj yang mendatangi Rasulullah pada musim haji tersebut berjumlah enam orang. Mereka adalah As'ad bin Zurarah bin Ads dari bani Al-Najjar, Auf bin al-Harits bin Rifa'ah (putra dari Afra') dari bani Al-Najjar, Rafi' bin Malik bin al-Ajlan dari bani Zuraiq, Quthbah bin Amir bin Hadidah dari bani Salimah, Uqbah bin Amir bin Nabi dari bani Ghanam bin Ali bin Ghasm, dan Jabir bin Abdullah bin Riab dari bani Ubaid bin Adi.",
+      "Ketika keenam pemuda ini telah sampai kembali di kota Madinah, mereka segera menyampaikan kabar tentang Rasulullah kepada kaumnya.",
+      "Mereka mengajak masyarakat Yatsrib untuk mengenal Islam serta membacakan ayat-ayat Al-Qur'an yang telah mereka pelajari.",
+      "Syiar Islam pun mulai tersebar luas dengan sangat cepat, hingga akhirnya tidak ada satu pun rumah dari rumah-rumah kabilah Anshar di Madinah melainkan di dalamnya telah disebut-sebut nama Rasulullah. Kisah tersebarnya awal dakwah di Madinah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 74,
+     "title": "Baiat Aqabah Pertama",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya dakwah Islam terus berkembang di kota Madinah hingga tiba musim haji pada tahun berikutnya.",
+      "Dari kota Yatsrib, datanglah dua belas orang pria dari kalangan Ansar untuk menemui Rasulullah di Aqabah. Pertemuan ini menjadi momentum terjadinya Baiat Aqabah yang pertama.",
+      "Di antara dua belas orang yang hadir tersebut, lima orang merupakan bagian dari enam pemuda yang telah datang pada musim haji sebelumnya. Mereka adalah As'ad bin Zurarah, Auf bin al-Harits, Rafi' bin Malik, Quthbah bin Amir, dan Uqbah bin Amir.",
+      "Adapun satu orang yang tidak hadir dari kelompok pertama adalah Jabir bin Abdullah bin Riab.",
+      "Sementara itu, tujuh orang lainnya merupakan wajah-wajah baru yang menyatakan keislamannya. Dari kabilah Khazraj, mereka adalah Mu'adz bin al-Harits (saudara laki-laki Auf), Dzakwan bin Abdi Qais (yang kemudian menetap di Mekah hingga berhijrah), Ubadah bin ash-Shamit bin Qais, Yazid bin Tsa'labah bin Khazam, serta Al-Abbas bin Ubadah bin Nadhlah. Adapun dari kabilah Aus, dua orang pria yang ikut bergabung adalah Abu al-Haitsam bin at-Tayyihan (pemilik nama asli Malik) dan Uwaim bin Sa'idah.",
+      "Ubadah bin ash-Shamit radhiyallahu 'anhu meriwayatkan jalannya peristiwa pembaiatan tersebut. Ia menuturkan, \"Kami berada di Aqabah yang pertama, dan kami membaiat Rasulullah di atas baitun-nisa' (perjanjian yang serupa dengan ketentuan bagi kaum wanita), sebelum diwajibkannya perang atas kami. Kami berjanji untuk tidak menyekutukan Allah dengan sesuatu pun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kami, tidak membuat-buat dusta yang kami ada-adakan antara tangan dan kaki kami, serta tidak mendurhakai beliau dalam perkara kebajikan.\"",
+      "Setelah baiat diucapkan, Rasulullah bersabda kepada mereka: \"Jika kalian memenuhi janji ini, maka bagi kalian adalah surga. Namun, jika kalian melanggar sesuatu dari perkara-perkara tersebut, lalu kalian dihukum di dunia, maka hukuman itu merupakan kaffarah (penebus dosa) bagi kalian. Dan jika kalian melanggarnya, kemudian Allah menutupinya di dunia, maka urusan kalian dikembalikan kepada Allah; jika Dia berkehendak, Dia akan mengampuni kalian, dan jika Dia berkehendak, Dia akan menyiksa kalian.\"",
+      "Kisah ikatan janji setia pertama dari penduduk Madinah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 75,
+     "title": "Pengutusan Mus'ab bin Umair ke Madinah untuk Mengajarkan Islam",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah dua belas orang pria Ansar tersebut menyelesaikan Baiat Aqabah Pertama dan hendak kembali ke Madinah, Rasulullah mengutus seorang sahabat bersama mereka.",
+      "Beliau mengutus Mus'ab bin Umair bin Hasyim bin Abdi Manaf bin Abdid Dar.",
+      "Rasulullah memerintahkan Mus'ab bin Umair untuk membacakan Al-Qur'an kepada penduduk Yatsrib, mengajarkan kepada mereka hakikat agama Islam, serta memahamkan mereka tentang syariat-syariatnya.",
+      "Oleh karena itu, di kota Madinah, Mus'ab bin Umair kemudian dikenal secara luas dengan julukan Al-Muqri' (Sang Pengajar Al-Qur'an).",
+      "Setibanya di Madinah, Mus'ab bin Umair tinggal menetap di rumah As'ad bin Zurarah bin Ads.",
+      "Dari rumah As'ad bin Zurarah inilah, Mus'ab mulai bergerak aktif menyebarkan dakwah, membacakan ayat-ayat Allah, dan menyeru masyarakat Madinah untuk memeluk Islam, sehingga jumlah kaum muslimin di kota tersebut semakin hari semakin bertambah banyak.",
+      "Kisah mengenai pengutusan duta Islam pertama ke Madinah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 76,
+     "title": "Keislaman Usaid bin Hudhair dan Sa'ad bin Mu'adz melalui Dakwah Mus'ab bin Umair",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya Mus'ab bin Umair bersama As'ad bin Zurarah terus bergerak menyebarkan Islam di Madinah.",
+      "Suatu hari, keduanya berjalan hingga memasuki sebuah perkebunan milik bani Abdul Asyhal dan bani Zhafar.",
+      "Di kebun tersebut, terdapat sebuah sumur bernama sumur Maraq. Mus'ab dan As'ad duduk di dekat sumur itu, lalu beberapa orang pria dari kalangan kaum muslimin datang berkumpul di sekitar mereka.",
+      "Pada saat itu, Sa'ad bin Mu'adz dan Usaid bin Hudhair, yang merupakan dua pemuka dari kabilah bani Abdul Asyhal, masih memeluk agama kesyirikan kabilahnya.",
+      "Ketika Sa'ad bin Mu'adz mendengar kabar tentang kedatangan Mus'ab dan As'ad di wilayahnya, ia berkata kepada Usaid bin Hudhair, \"Pergilah engkau menemui dua pria yang telah datang ke perkampungan kita ini untuk membodoh-bodohi orang-orang lemah di antara kita! Hardiklah mereka berdua dan laranglah mereka untuk mendatangi perkampungan kita lagi. Seandainya As'ad bin Zurarah bukan sepupuku (putra dari bibiku), niscaya aku sendiri yang akan mendatangi dan menyelesaikannya.\"",
+      "Maka Usaid bin Hudhair segera mengambil tombaknya lalu berjalan menemui Mus'ab dan As'ad.",
+      "Ketika As'ad bin Zurarah melihat kedatangan Usaid dengan membawa senjata, ia berbisik kepada Mus'ab bin Umair, \"Pria ini adalah pemuka kaumnya yang datang menemuimu, maka bersikap jujurlah engkau kepada Allah dalam menghadapinya.\"",
+      "Mus'ab menjawab, \"Jika dia mau duduk, aku akan berbicara kepadanya.\"",
+      "Usaid bin Hudhair berdiri di hadapan mereka berdua sambil melontarkan kata-kata kasar, \"Perkara apa yang membawa kalian berdua mendatangi kami? Apakah kalian hendak membodoh-bodohi orang-orang lemah di antara kami?! Menjauhlah dari kami jika kalian masih menyayangi diri kalian!\"",
+      "Mus'ab bin Umair menjawab dengan penuh ketenangan: \"Mengapa engkau tidak duduk dan mendengarkan terlebih dahulu? Jika engkau rida dengan perkara yang kami sampaikan, engkau dapat menerimanya. Namun jika engkau membencinya, kami akan menghentikan perkara yang engkau benci itu dari dirimu.\"",
+      "Usaid berkata, \"Engkau telah bersikap adil.\" Ia pun menancapkan tombaknya ke tanah lalu duduk mendengarkan.",
+      "Mus'ab mulai menjelaskan tentang hakikat Islam kepada Usaid dan membacakan ayat-ayat Al-Qur'an.",
+      "Ibnu Ishaq menceritakan bahwasanya demi Allah, sebelum Usaid berbicara, keindahan Islam telah tampak pada pancaran wajah dan ketenangannya.",
+      "Usaid kemudian berseru, \"Alangkah indahnya dan bagusnya perkataan ini! Apa yang harus dilakukan oleh seseorang jika ia ingin masuk ke dalam agama ini?\"",
+      "Mus'ab dan As'ad menjawab, \"Engkau mandi, membersihkan pakaianmu, mengucapkan kesaksian yang haq (syahadat), kemudian engkau mendirikan shalat.\"",
+      "Usaid segera bangkit melakukan perkara tersebut, lalu ia bersabda, \"Sesungguhnya di belakangku ada seorang pria (Sa'ad bin Mu'adz) yang jika dia mengikutimu, niscaya tidak akan ada satu pun orang dari kaumnya yang tertinggal untuk mengikutimu. Aku akan segera mengirimnya kemari.\"",
+      "Usaid bin Hudhair pun kembali menemui Sa'ad bin Mu'adz yang sedang duduk berkumpul bersama kaumnya.",
+      "Begitu melihat Usaid datang, Sa'ad bin Mu'adz berkata kepada kaumnya, \"Demi Allah, Usaid datang menemui kalian dengan wajah yang berbeda dari saat dia pergi tadi.\"",
+      "Sa'ad bertanya, \"Apa yang telah engkau perbuat?\" Usaid menjawab, \"Aku telah berbicara kepada dua pria itu, dan demi Allah, aku melihat tidak ada masalah pada urusan mereka berdua. Namun, aku mendengar bani Haritsah telah keluar untuk membunuh As'ad bin Zurarah karena mereka mengetahui dia adalah sepupumu, dengan tujuan untuk merusak perjanjianmu.\"",
+      "Mendengar kabar tersebut, Sa'ad bin Mu'adz bangkit dengan penuh amarah demi melindungi sepupunya. Ia mengambil tombak lalu pergi menuju kebun.",
+      "Namun sesampainya di sana, ia mendapati Mus'ab dan As'ad sedang duduk dengan tenang.",
+      "Sa'ad menyadari bahwasanya Usaid sengaja melakukan hal itu agar dirinya mau datang dan mendengarkan dakwah mereka.",
+      "Sa'ad bin Mu'adz berdiri di hadapan mereka berdua seraya berkata dengan nada keras kepada As'ad bin Zurarah, \"Wahai Abu Umamah, demi Allah, seandainya tidak ada hubungan kekerabatan di antara kita, niscaya engkau tidak akan bisa membawa perkara yang kami benci ini ke perkampungan kami!\"",
+      "Mus'ab bin Umair kembali mengulang perkataan yang serupa, \"Mengapa engkau tidak duduk dan mendengarkan terlebih dahulu? Jika engkau rida dengan perkara yang kami sampaikan, engkau dapat menerimanya. Namun jika engkau membencinya, kami akan menjauhkan perkara yang engkau benci itu dari dirimu.\"",
+      "Sa'ad bin Mu'adz menjawab, \"Engkau bersikap adil.\" Ia pun meletakkan tombaknya lalu duduk mendengarkan.",
+      "Mus'ab menawarkan Islam kepadanya dan membacakan ayat-ayat Al-Qur'an. Pancaran keindahan Islam langsung meresap ke dalam diri Sa'ad bin Mu'adz bahkan sebelum ia bersuara.",
+      "Ia menanyakan cara masuk Islam, lalu melakukan mandi, bersuci, mengucapkan syahadat, dan melakukan shalat.",
+      "Setelah menyatakan keislamannya, Sa'ad bin Mu'adz segera kembali menuju tempat berkumpulnya kabilah bani Abdul Asyhal.",
+      "Ia berdiri di hadapan kaumnya dan berseru, \"Wahai bani Abdul Asyhal, bagaimana kedudukan diriku di tengah-tengah kalian?\" Kaumnya menjawab, \"Engkau adalah pemuka kami, orang yang paling bijak pandangannya, dan paling mulia urusannya di antara kami.\"",
+      "Sa'ad bin Mu'adz kemudian menegaskan dengan penuh ketetapan: \"Maka haram hukumnya bagi pembicaraan pria dan wanita di antara kalian dengan diriku, sampai kalian semua beriman kepada Allah dan Rasul-Nya!\"",
+      "Demi Allah, hari itu belum lagi berganti menjadi malam, melainkan seluruh rumah dari rumah-rumah bani Abdul Asyhal, baik pria maupun wanita, semuanya telah menyatakan keislaman mereka secara serentak.",
+      "Mus'ab bin Umair pun kembali ke rumah As'ad bin Zurarah dan terus mengajarkan Islam hingga Madinah dipenuhi oleh cahaya keimanan.",
+      "Kisah keislaman dua pemuka besar Madinah yang menggerakkan seluruh kaumnya ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 77,
+     "title": "Persiapan Keberangkatan Kaum Muslimin Madinah Menuju Musim Haji",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah dakwah Islam tersebar luas di kota Madinah melalui perantaraan Mus'ab bin Umair, musim haji berikutnya pun tiba.",
+      "Mus'ab bin Umair memutuskan untuk kembali ke kota Mekah. Dari kota Madinah, sekelompok masyarakat Ansar yang telah memeluk Islam berangkat bersama-sama dengan kaumnya yang masih memeluk agama kesyirikan.",
+      "Mereka bertolak menuju Mekah dengan tujuan untuk menunaikan ibadah haji.",
+      "Selama dalam perjalanan dan sesampainya di Mekah, kaum muslimin dari kalangan Ansar ini menyembunyikan keislaman mereka secara rapat-rapat dari kaum musyrikin yang berangkat bersama mereka.",
+      "Mereka saling berjanji untuk mengadakan pertemuan rahasia dengan Rasulullah di tempat yang sama pada musim haji sebelumnya.",
+      "Mereka menetapkan rencana untuk berkumpul di Aqabah pada hari-hari tasyrik.",
+      "Ikatan janji rahasia ini mereka sepakati demi menjaga keselamatan dakwah dan menghindari makar serta permusuhan dari kaum Quraisy yang berada di Mekah. Kisah persiapan keberangkatan dan rencana pertemuan rahasia ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 78,
+     "title": "Kesepakatan Pertemuan Malam Hari di Aqabah",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika kaum muslimin dari kalangan Ansar telah menyelesaikan rangkaian ibadah haji mereka bersama kaum musyrikin dari penduduk Yatsrib, mereka bersiap untuk merealisasikan rencana pertemuan dengan Rasulullah. Mereka menetapkan malam pertengahan hari tasyrik sebagai waktu pertemuan rahasia tersebut.",
+      "Ka'ab bin Malik radhiyallahu 'anhu meriwayatkan jalannya peristiwa malam itu. Ia menceritakan bahwa sepanjang malam, mereka tidur di tempat bermalam mereka bersama kaumnya yang masih musyrik.",
+      "Ketika sepertiga malam terakhir tiba dan manusia telah tertidur lelap, kaum muslimin Ansar mulai keluar dari tempat pembaringan mereka secara sembunyi-sembunyi.",
+      "Mereka menyelinap keluar satu per satu dengan sangat hati-hati layaknya burung-burung yang merayap di dalam kegelapan, agar tidak menimbulkan kecurigaan bagi kaum musyrikin yang ada di sekitar mereka.",
+      "Mereka semua berjalan menuju tempat pertemuan di lembah dekat Aqabah. Sesampainya di sana, mereka berkumpul menantikan kedatangan Rasulullah.",
+      "Jumlah kaum muslimin dari Madinah yang berhasil berkumpul di lembah Aqabah pada malam itu adalah tujuh puluh tiga orang pria, dan disertai oleh dua orang wanita dari kalangan mereka.",
+      "Kedua wanita yang ikut hadir menyaksikan peristiwa bersejarah tersebut adalah Nusaibah binti Ka'ab bin Amr (yang dikenal dengan julukan Ummu Umarah) dari bani Mazin bin An-Najjar, serta Asma binti Amr bin Adi (yang dikenal dengan julukan Ummu Mani') dari bani Salimah.",
+      "Kisah perkumpulan rahasia para pembela Islam di Aqabah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 79,
+     "title": "Pertemuan Lembah Aqabah dan Kehadiran Al-Abbas bin Abdul Muthalib",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah tujuh puluh tiga orang pria dan dua orang wanita dari kalangan Ansar berkumpul di lembah dekat Aqabah, tidak lama kemudian datanglah Rasulullah.",
+      "Beliau tidak datang seorang diri, melainkan didampingi oleh pamannya, Al-Abbas bin Abdul Muthalib, yang pada saat itu masih memeluk agama kaumnya (belum masuk Islam).",
+      "Al-Abbas ingin hadir dalam pertemuan tersebut untuk memastikan keselamatan dan mengukuhkan jaminan bagi putra saudaranya.",
+      "Al-Abbas bin Abdul Muthalib menjadi orang pertama yang angkat bicara di hadapan jamaah Ansar yang telah berkumpul.",
+      "Ia berseru, \"Wahai segenap kaum Khazraj! Sesungguhnya Muhammad berada di tengah-tengah kami dalam kemuliaan dan benteng pertahanan dari kaumnya sendiri, serta dari orang-orang yang memiliki pandangan yang sama dengan kami tentang urusannya. Namun, dia enggan melainkan ingin bergabung bersama kalian dan menyatu dengan kalian. Jika kalian merasa mampu untuk memenuhi apa yang kalian serukan kepadanya, serta mampu melindunginya dari orang-orang yang menyelisihi dirinya, maka silakan kalian pikul tanggung jawab yang telah kalian ambil itu. Akan tetapi, jika kalian memperkirakan akan menyerahkannya dan membiarkannya terlantar setelah dia keluar bersama kalian, maka dari sekarang tinggalkanlah dia!\"",
+      "Mendengar perkataan Al-Abbas, kaum Ansar berpaling dan berkata, \"Kami telah mendengar apa yang engkau ucapkan.\"",
+      "Kemudian mereka menghadap kepada Rasulullah dan berkata, \"Berbicaralah, wahai Rasulullah! Ambillah janji untuk dirimu dan untuk Tuhanmu sesuai dengan apa yang engkau cintai.\"",
+      "Maka Rasulullah mulai berbicara. Beliau membacakan ayat-ayat Al-Qur'an, menyeru mereka kepada Allah, dan memberikan motivasi yang kuat agar mereka tetap teguh di dalam Islam.",
+      "Kisah dimulainya dialog pembaiatan besar di lembah Aqabah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 80,
+     "title": "Janji Setia Baiat Aqabah Kedua",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah Rasulullah menyampaikan seruannya, beliau bersabda mengenai syarat pembaiatan: \"Aku membaiat kalian untuk melindungi diriku sebagaimana kalian melindungi wanita-wanita dan anak-anak kalian.\"",
+      "Mendengar perkataan tersebut, Al-Bara' bin Ma'rur segera memegang tangan Rasulullah lalu berkata, \"Benar, demi Dzat yang telah mengutusmu dengan kebenaran sebagai seorang nabi, kami pasti akan melindungimu sebagaimana kami melindungi keluarga kami! Maka baiatlah kami, wahai Rasulullah! Demi Allah, kami adalah putra-putra peperangan dan ahli dalam persenjataan yang telah kami warisi secara turun-temurun.\"",
+      "Ketika Al-Bara' sedang berbicara dengan Rasulullah, Abu al-Haitsam bin at-Tayyihan memotong pembicaraan seraya berkata, \"Wahai Rasulullah, sesungguhnya di antara kami dan orang-orang itu (kaum Yahudi) ada hubungan tali perjanjian, dan kami akan memutuskannya. Apakah jika kami telah melakukannya, kemudian Allah memenangkan dirimu, engkau akan kembali kepada kaummu dan meninggalkan kami?\"",
+      "Rasulullah ﷺ tersenyum lalu bersabda: \"Tidak, bahkan darah dibalas darah, dan kehancuran dibalas kehancuran. Aku adalah bagian dari kalian dan kalian adalah bagian dari diriku. Aku akan memerangi siapa saja yang kalian perangi, dan aku akan berdamai dengan siapa saja yang kalian ajak berdamai.\"",
+      "Setelah itu, Rasulullah bersabda kepada mereka, \"Keluarkanlah kepadaku dua belas orang pemimpin (naqib) dari kalangan kalian agar mereka menjadi penanggung jawab atas kaumnya.\" Maka mereka segera mengeluarkan sembilan orang pemimpin dari kabilah Khazraj dan tiga orang pemimpin dari kabilah Aus.",
+      "Kisah pengukuhan janji setia dan pemilihan para pemimpin Ansar ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 81,
+     "title": "Terbongkarnya Pertemuan Rahasia Aqabah dan Seruan Setan",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah dua belas orang pemimpin (naqib) dari kalangan Ansar terpilih, mereka segera mengambil tanggung jawab atas kaumnya masing-masing.",
+      "Ketika seluruh jamaah yang hadir telah bersiap untuk memulai prosesi jabat tangan pembaiatan satu per satu, tiba-tiba terdengar teriakan yang sangat keras dari puncak Aqabah.",
+      "Teriakan itu berseru dengan suara yang sangat lantang dan melengking, yang belum pernah didengar ada suara selantang itu sebelumnya, \"Wahai para penghuni kemah-kemah yang ada di Mina! Apakah kalian membiarkan Muhammad beserta orang-orang yang telah murtad (keluar dari agama nenek moyang) bersamanya berkumpul untuk memerangi kalian?!\"",
+      "Mendengar teriakan yang membongkar rahasia tersebut, Rasulullah segera bersabda kepada jamaah kaum Ansar yang berada di lembah: \"Ini adalah setan penghuni Aqabah. Ini adalah putra dari Azab.\"",
+      "Setelah itu, Rasulullah mendongak ke arah sumber suara tersebut dan berseru menantang, \"Ingatlah, demi Allah, wahai musuh Allah, sesungguhnya aku benar-benar akan menyelesaikan urusan ini denganmu sampai tuntas!\"",
+      "Rasulullah kemudian segera menoleh kembali kepada kaum Ansar dan memerintahkan mereka dengan tegas, \"Sekarus, kembalilah kalian menuju tempat pembaringan dan kemah kalian masing-masing.\"",
+      "Mendengar perintah tersebut, Al-Abbas bin Ubadah bin Nadhlah langsung menyela seraya berkata kepada beliau, \"Demi Allah yang telah mengutusmu dengan kebenaran sebagai seorang nabi, jika engkau menghendaki, niscaya besok pagi kami benar-benar akan menebaskan pedang-pedang kami kepada para penghuni Mina (kaum musyrikin)!\"",
+      "Namun, Rasulullah memberikan jawaban kepada mereka: \"Kita tidak diperintahkan untuk melakukan perkara peperangan tersebut. Oleh karena itu, kembalilah kalian menuju tempat pembaringan kalian.\"",
+      "Maka kaum Ansar segera menyelinap kembali menuju tempat tidur mereka di kemah-kemah Mina, lalu mereka tidur di sana hingga pagi hari tiba.",
+      "Kisah terbongkarnya baiat rahasia akibat seruan setan Aqabah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 82,
+     "title": "Investigasi Kaum Quraisy terhadap Kabar Baiat Aqabah",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya ketika pagi hari telah tiba, kabar mengenai pertemuan rahasia di Aqabah tersebut akhirnya sampai ke telinga para pemuka kaum Quraisy.",
+      "Hal ini memicu kegemparan di kalangan mereka, sehingga sekelompok tokoh pemuka Quraisy segera mendatangi tempat perkemahan kabilah-kabilah penduduk Yatsrib yang berada di Mina.",
+      "Sesampainya di sana, para pemuka Quraisy langsung melayangkan protes dan interogasi dengan berkata, \"Wahai segenap kaum Khazraj! Sesungguhnya telah sampai sebuah kabar kepada kami bahwasanya kalian telah mendatangi pria dari kalangan kami ini (Muhammad) untuk membawanya keluar dari kota kami, serta kalian telah membaiatnya untuk memerangi kami! Demi Allah, sesungguhnya tidak ada satu pun kabilah dari kalangan bangsa Arab yang paling kami benci jika sampai terjadi peperangan di antara kami dengan mereka, melainkan kalian!\"",
+      "Mendengar tuduhan mendadak tersebut, orang-orang musyrik dari penduduk Yatsrib yang ikut dalam rombongan haji langsung terkejut karena mereka memang sama sekali tidak mengetahui apa-apa tentang pertemuan rahasia yang terjadi pada sepertiga malam terakhir itu.",
+      "Mereka pun segera bersumpah dengan nama Allah untuk meyakinkan kaum Quraisy seraya berkata, \"Demi Allah, kabar itu sama sekali tidak benar, dan hal seperti itu tidak pernah terjadi pada kami!\"",
+      "Sementara itu, kaum muslimin dari kalangan Ansar yang berada di tempat tersebut memilih untuk saling berdiam diri dan tidak mengucapkan sepatah kata pun.",
+      "Mereka membiarkan orang-orang musyrik dari kaumnya terus memberikan pembelaan dan bantahan kepada Quraisy.",
+      "Para pemuka Quraisy pun akhirnya memercayai bantahan orang-orang musyrik Yatsrib tersebut, lalu mereka berdiri and meninggalkan tempat perkemahan dengan keyakinan bahwa kabar angin itu hanyalah dusta.",
+      "Kisah investigasi kaum Quraisy di perkemahan Mina ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 83,
+     "title": "Pengejaran Kaum Quraisy Terhadap Kaum Ansar",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah rombongan haji dari Yatsrib bertolak kembali ke negeri mereka, kaum Quraisy terus melakukan penyelidikan secara mendalam.",
+      "Hingga akhirnya, mereka berhasil mendapatkan kepastian dan bukti yang sangat jelas bahwasanya pertemuan rahasia serta pembaiatan Rasulullah benar-benar telah terjadi di Aqabah.",
+      "Begitu menyadari bahwasanya kabar tersebut adalah fakta, para penunggang kuda dari kalangan kaum Quraisy segera dikerahkan untuk melakukan pengejaran secara besar-besaran terhadap rombongan kaum Ansar yang telah meninggalkan Mekah. Mereka memacu kuda-kuda mereka dengan cepat demi menangkap para pembela Islam tersebut.",
+      "Rombongan kaum Ansar telah berjalan cukup jauh. Para penunggang kuda Quraisy tidak berhasil mengejar rombongan utama, melainkan hanya menemukan dua orang pemimpin Ansar yang terpisah di tengah jalan.",
+      "Dua orang tersebut adalah Sa'ad bin Ubadah bin Dulaim dari kabilah Khazraj dan Al-Mundzir bin Amr bin Khunais dari kabilah Aus.",
+      "Ketika menyadari keberadaan para pengejar Quraisy, Al-Mundzir bin Amr segera menggunakan kelincahannya untuk meloloskan diri, hingga akhirnya ia berhasil melarikan diri dan tidak dapat ditangkap oleh mereka.",
+      "Adapun Sa'ad bin Ubadah, ia berhasil dikepung dan ditangkap oleh para penunggang kuda Quraisy.",
+      "Kaum Quraisy segera mengikat kedua tangan Sa'ad bin Ubadah ke lehernya dengan menggunakan tali pelana untanya sendiri.",
+      "Mereka kemudian menyeretnya, memukulinya, dan menjambak rambutnya yang lebat sepanjang jalan menuju kota Mekah dalam kondisi tertawan.",
+      "Kisah pengejaran kaum Quraisy dan tertawannya Sa'ad bin Ubadah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 84,
+     "title": "Penyelamatan Sa'ad bin Ubadah oleh Pemuka Quraisy",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya Sa'ad bin Ubadah radhiyallahu 'anhu menuturkan sendiri peristiwa yang dialaminya ketika berada dalam siksaan kaum Quraisy di kota Mekah.",
+      "Beliau menceritakan, \"Demi Allah, ketika aku berada di tangan mereka dalam kondisi diseret dan disiksa, tiba-tiba muncul sekelompok pria dari kalangan kaum Quraisy. Di antara mereka tampak seorang pria yang berkulit putih, bersih, dan bertubuh jangkung. Di dalam hatiku, aku berkata, 'Jika ada kebaikan pada salah seorang dari kaum ini, maka pastilah ada pada pria jangkung ini.'\"",
+      "Namun, begitu pria jangkung tersebut mendekat ke arah Sa'ad bin Ubadah, ia justru melayangkan pukulan yang sangat keras ke wajah beliau.",
+      "Sa'ad melanjutkan, \"Maka aku berkata di dalam diriku sendiri, 'Demi Allah, setelah peristiwa ini, tidak ada lagi kebaikan yang tersisa pada mereka sedikit pun.'\"",
+      "Ketika Sa'ad bin Ubadah sedang terus-menerus dipukuli dan diseret di tengah jalan, datanglah seorang pria dari kalangan Quraisy yang merasa iba melihat kondisinya.",
+      "Pria tersebut mendekat lalu berbisik ke telinga Sa'ad bin Ubadah, \"Celaka engkau! Apakah engkau tidak memiliki ikatan jaminan perlindungan (jiwar) atau perjanjian dengan salah seorang dari pemuka Quraisy?\"",
+      "Sa'ad menjawab, \"Tentu, aku memilikinya. Aku dahulu selalu melindungi kafilah dagang milik Jubair bin Muth'im bin Adi dan menjamin urusan mereka dari gangguan orang-orang di negeriku. Aku juga selalu melindungi kafilah dagang milik Al-Harits bin Harb bin Umayyah bin Abdi Syams.\"",
+      "Pria Quraisy itu segera berseru kepada orang-orang yang sedang menyiksa, \"Celaka kalian! Lepaskan tangan kalian dari pria ini, karena sesungguhnya dia adalah orang yang menjamin urusan dan melindungi kafilah dagang milik Jubair bin Muth'im dan Al-Harits bin Harb!\"",
+      "Pria itu kemudian segera berlari menuju Masjidil Haram untuk menemui Jubair bin Muth'im dan Al-Harits bin Harb yang sedang duduk bersama.",
+      "Sesampainya di sana, ia mengabarkan, \"Sesungguhnya ada seorang pria dari kabilah Khazraj sedang dipukuli di lembah Mekah, dan dia menyebut-nyebut nama kalian berdua serta menyebutkan adanya hubungan jaminan di antara kalian.\"",
+      "Jubair dan Al-Harits terkejut lalu bertanya, \"Siapakah nama pria itu?\" Pria tersebut menjawab, \"Dia adalah Sa'ad bin Ubadah.\"",
+      "Jubair bin Muth'im dan Al-Harits bin Harb segera bangkit dan berkata, \"Benar, demi Allah, apa yang dikatakannya adalah sebuah kebenaran. Dia selalu melindungi urusan dagang kita di negerinya.\"",
+      "Keduanya langsung bergegas pergi menuju tempat Sa'ad bin Ubadah ditawan, lalu mereka melepaskan ikatan talinya dan menyelamatkannya dari siksaan kaum Quraisy hingga akhirnya beliau dapat kembali ke Madinah dengan selamat.",
+      "Kisah penyelamatan Sa'ad bin Ubadah melalui jaminan dagang ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 85,
+     "title": "Izin Berhijrah ke Madinah Bagi Kaum Muslimin",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya bahwasanya setelah peristiwa Baiat Aqabah Kedua selesai dan kaum Ansar telah kembali ke Madinah, Rasulullah tetap tinggal di kota Mekah untuk beberapa waktu.",
+      "Gangguan dan tekanan yang dilancarkan oleh kaum Quraisy kepada para sahabat beliau yang berada di Mekah semakin hari semakin keras dan bertubi-tubi.",
+      "Kaum Quraisy merasa sangat terancam dengan adanya ikatan janji setia antara Rasulullah dengan penduduk Yatsrib.",
+      "Melihat kondisi para sahabatnya yang terus berada dalam siksaan dan penyempitan, Rasulullah akhirnya memberikan amanat dan izin kepada kaum muslimin untuk berhijrah.",
+      "Beliau bersabda kepada mereka: \"Sesungguhnya Allah telah menjadikan bagi kalian saudara-saudara dan negeri yang aman untuk tempat kalian berlindung.\"",
+      "Maka setelah mendapatkan izin tersebut, kaum muslimin di Mekah mulai bersiap-siap untuk keluar dari kota mereka.",
+      "Mereka mengemas barang-barang mereka secara sembunyi-sembunyi agar tidak ketahuan oleh kaum Quraisy. Mereka mulai berhijrah secara bertahap menuju kota Madinah untuk bergabung dengan saudara-saudara mereka dari kalangan Ansar.",
+      "Kisah dimulainya perintah hijrah menuju Madinah ini tercantum di dalam kitab Al-Bidayah."
+     ]
+    },
+    {
+     "id": 86,
+     "title": "Tokoh Kaum Muslimin yang Pertama Kali Berhijrah ke Madinah",
+     "paragraphs": [
+      "Ibnu Ishaq melanjutkan kisahnya mengenai nama-nama para sahabat Rasulullah dari kalangan Muhajirin yang pertama kali bertolak melakukan hijrah menuju kota Madinah.",
+      "Sahabat yang pertama kali berangkat menuju Madinah dari kalangan bani Makhzum adalah Abu Salamah bin Abdil Asad.",
+      "Nama asli beliau adalah Abdullah bin Abdil Asad bin Hilal bin Abdullah bin Umar bin Makhzum.",
+      "Abu Salamah berangkat berhijrah menuju Madinah satu tahun sebelum terjadinya peristiwa Baiat Aqabah Kedua.",
+      "Hal itu terjadi karena ketika beliau kembali dari tanah Habasyah (Etiopia) menuju Mekah, kaum Quraisy langsung melancarkan intimidasi dan gangguan yang keras kepada dirinya.",
+      "Begitu mendengar kabar tentang keberadaan kaum Ansar di Yatsrib yang telah menerima Islam, Abu Salamah memutuskan untuk segera keluar menuju Madinah demi mengamankan diri dan agamanya.",
+      "Setelah Abu Salamah, sahabat berikutnya yang menyusul berhijrah ke Madinah adalah Amir bin Rabi'ah.",
+      "Beliau merupakan sekutu dari bani Adi bin Ka'ab. Amir bin Rabi'ah berangkat berhijrah bersama istrinya, Laila binti Abi Hatsmah bin Huzafah bin Ghanim bin Abdullah bin Auf bin Ubaid bin Uaij bin Adi bin Ka'ab.",
+      "Laila binti Abi Hatsmah tercatat sebagai wanita pertama yang memasuki kota Madinah dengan mengendarai sekedup unta dalam gelombang hijrah ini.",
+      "Selanjutnya, Abdullah bin Jahsy bin Riyab bin Ya'mar bin Shabirah bin Murrah bin Kabir bin Ghanm bin Dudan bin Asad bin Khuzaimah juga berangkat berhijrah.",
+      "Beliau membawa serta seluruh anggota keluarganya beserta saudara laki-lakinya, Abu Ahmad bin Jahsy, untuk pergi meninggalkan Mekah menuju Madinah.",
+      "Kisah mengenai para pelopor hijrah kaum Muhajirin ini tercantum di dalam kitab Al-Bidayah."
+     ]
+     }
    ]
   },
   {
