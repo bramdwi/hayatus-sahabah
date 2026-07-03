@@ -1296,4 +1296,24 @@ const HAYATUS_DATA = {
    ]
   }
  ]
+}
+},
+  {
+   "id": 3,
+   "label": "Jilid 3",
+   "theme": "Segera hadir",
+   "available": false,
+   "chapters": []
+  }
+ ]
+},
+  {
+   "id": 4,
+   "label": "Jilid 4",
+   "theme": "Segera hadir",
+   "available": false,
+   "chapters": []
+  }
+ ]
 };
+
