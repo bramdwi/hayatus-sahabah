@@ -116,7 +116,31 @@
   </div>
 </div>
 
-<script src="data.js"></script>
-<script src="app.js"></script>
+<script>
+  // Visible failure state instead of a silent, endless "Memuat…" —
+  // shows exactly what went wrong so it's diagnosable from the phone itself.
+  function hayatusShowLoadError(reason) {
+    var stage = document.getElementById('chapterStage');
+    if (!stage) return;
+    stage.innerHTML =
+      '<div style="text-align:center;padding:3rem 1rem;font-family:Inter,system-ui,sans-serif;color:#3c3527;">' +
+      '<p style="font-size:1rem;font-weight:600;margin-bottom:.4rem;">Gagal memuat kisah</p>' +
+      '<p style="font-size:.85rem;color:#6b6252;margin-bottom:1.2rem;">' + reason + '</p>' +
+      '<button onclick="location.reload(true)" style="background:#1c3d2e;color:#faf5e8;border:none;border-radius:999px;padding:.6rem 1.3rem;font-size:.85rem;font-weight:600;">Muat Ulang</button>' +
+      '</div>';
+  }
+  window.addEventListener('error', function (e) {
+    if (typeof HAYATUS_DATA === 'undefined') {
+      hayatusShowLoadError('File data.js atau app.js tidak berhasil dimuat dari server. Cek apakah semua file (data.js, app.js, styles.css) benar-benar ter-upload sejajar dengan index.html.');
+    }
+  });
+  window.hayatusLoadTimeout = setTimeout(function () {
+    if (typeof HAYATUS_DATA === 'undefined' || !document.querySelector('.chapter')) {
+      hayatusShowLoadError('Memuat terlalu lama — kemungkinan salah satu file (data.js / app.js / styles.css) tidak ditemukan di server. Coba muat ulang, atau periksa alamat file langsung, misalnya: ' + location.origin + '/data.js');
+    }
+  }, 6000);
+</script>
+<script src="data.js" onerror="hayatusShowLoadError('File data.js tidak ditemukan (404). Pastikan file ini ter-upload sejajar dengan index.html.')"></script>
+<script src="app.js" onerror="hayatusShowLoadError('File app.js tidak ditemukan (404). Pastikan file ini ter-upload sejajar dengan index.html.')"></script>
 </body>
 </html>

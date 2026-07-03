@@ -478,21 +478,7 @@ const HAYATUS_DATA = {
    "id": 2,
    "label": "Jilid 2",
    "theme": "Segera hadir",
-   "available": true,
-   "chapters": []
-  }
-  {
-   "id": 2,
-   "label": "Jilid 3",
-   "theme": "Segera hadir",
-   "available": true,
-   "chapters": []
-  }
-  {
-   "id": 2,
-   "label": "Jilid 4",
-   "theme": "Segera hadir",
-   "available": true,
+   "available": false,
    "chapters": []
   }
  ]

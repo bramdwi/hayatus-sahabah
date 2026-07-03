@@ -346,6 +346,7 @@
     renderVolumeTabs();
     renderDrawerList();
     renderChapter();
+    if (window.hayatusLoadTimeout) clearTimeout(window.hayatusLoadTimeout);
     updateOnlineStatus();
     initSwipe();
 
