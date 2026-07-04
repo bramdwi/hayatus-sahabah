@@ -1160,8 +1160,6 @@ const HAYATUS_DATA = {
       "Amir bin Rabi'ah berangkat berhijrah bersama istrinya, Laila binti Abi Hatsmah bin Huzafah bin Ghanim bin Abdullah bin Auf bin Ubaid bin Uaij bin Adi bin Ka'ab. Laila binti Abi Hatsmah tercatat sebagai wanita pertama yang memasuki kota Madinah dengan mengendarai sekedup unta dalam gelombang hijrah ini.",
       "Selanjutnya, Abdullah bin Jahsy bin Riyab bin Ya'mar bin Shabirah bin Murrah bin Kabir bin Ghanm bin Dudan bin Asad bin Khuzaimah juga berangkat berhijrah. Beliau membawa serta seluruh anggota keluarganya beserta saudara laki-lakinya, Abu Ahmad bin Jahsy, untuk pergi meninggalkan Mekah menuju Madinah.",
       "Kisah mengenai para pelopor hijrah kaum Muhajirin ini tercantum di dalam kitab Al-Bidayah."
-     ]
-    }
    ]
   },
   {
