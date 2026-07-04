@@ -1383,6 +1383,8 @@ const HAYATUS_DATA = {
   "Begitu ayat ini turun di tengah jalannya shalat, Rasulullah langsung memutar posisi tubuh beliau diikuti oleh seluruh jemaah para sahabat, merubah arah kiblat dari yang semula menghadap ke utara (Baitul Maqdis) menjadi berbalik menghadap ke arah selatan (Ka'bah di Masjidilharam).",
   "Peristiwa perubahan arah kiblat ini menjadi momentum besar yang membedakan secara tegas identitas ibadah kaum muslimin sekaligus menjadi ujian keimanan bagi manusia pada masa itu. Orang-orang yang lemah imannya serta kaum munafik mulai bimbang, sementara kaum Yahudi Madinah melancarkan berbagai kritik dan protes. Namun, kaum muslimin yang kokoh imannya segera menyatakan kepatuhan mutlak tanpa keraguan sedikit pun. Kisah mengenai peristiwa penting perubahan arah kiblat dari Baitul Maqdis ke Ka'bah ini tercantum di dalam kitab Al-Bidayah."
  ]
+}
+ ] 
 }, 
 
   {
