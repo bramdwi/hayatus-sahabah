@@ -1193,6 +1193,8 @@ const HAYATUS_DATA = {
   "Kisah ini juga disebutkan oleh Ibnu Ishaq, dan di dalam rangkaian riwayatnya disebutkan bahwa Sa'ad bin Mu'adz raḍiyallāhu 'anhu berkata, \"Demi Allah, seakan-akan engkau menginginkan jawaban dari kami, wahai Rasulullah.\" Beliau ﷺ menjawab, \"Benar.\" Sa'ad berkata, \"Sungguh kami telah beriman kepadamu, kami telah membenarkanmu, dan kami bersaksi bahwa apa yang engkau bawa adalah kebenaran. Kami pun telah memberikan janji-janji dan kesepakatan kami kepadamu untuk mendengar dan taat kepadamu. Maka berjalannlah, wahai Rasulullah, menuju apa yang engkau inginkan, maka kami bersamamu. Demi Zat yang mengutusmu dengan kebenaran, seandainya engkau membawa kami menghadapi lautan ini lalu engkau mengarunginya, niscaya kami akan benar-benar mengarunginya bersamamu. Tidak akan ada satu pun laki-laki dari kami yang tertinggal, dan kami tidak benci jika engkau mempertemukan kami dengan musuh kami esok hari. Sesungguhnya kami adalah orang-orang yang kokoh di dalam peperangan dan jujur saat bertemu musuh. Semoga Allah memperlihatkan kepadamu dari kami apa yang dapat menyenangkan matamu. Maka berjalanlah di atas berkah Allah.\"",
   "Maka Rasulullah ﷺ merasa gembira dengan perkataan Sa'ad tersebut dan membuatnya bersemangat. Kemudian beliau ﷺ bersabda, \"Berjalanlah kalian dan bergembiralah, karena sesungguhnya Allah telah menjanjikan kepadaku salah satu dari dua golongan. Demi Allah, seakan-akan sekarang aku sedang melihat ke tempat-tempat kematian kaum tersebut.\" Demikianlah yang tercantum di dalam *al-Bidayah*."
  ]
+}
+ ]
  },
   {
    "id": 3,
