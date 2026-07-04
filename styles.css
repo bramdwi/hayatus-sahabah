@@ -169,6 +169,7 @@ button{font-family:var(--font-ui);}
   gap:.6rem;
 }
 .status-banner.install{background:var(--wood-soft); color:var(--brown-700);}
+.status-banner[hidden]{display:none;}
 .pill-btn{
   background:var(--wood);
   color:var(--cream-100);

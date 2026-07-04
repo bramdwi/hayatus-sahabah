@@ -290,10 +290,18 @@
 
   /* ---------------- PWA: install + offline ---------------- */
   let deferredPrompt = null;
+  const isStandalone =
+    window.matchMedia("(display-mode: standalone)").matches ||
+    window.navigator.standalone === true;
+  if (isStandalone) {
+    try {
+      localStorage.setItem("hayatus:installDismissed", "1");
+    } catch (e) {}
+  }
   window.addEventListener("beforeinstallprompt", (e) => {
     e.preventDefault();
     deferredPrompt = e;
-    if (!localStorage.getItem("hayatus:installDismissed")) {
+    if (!isStandalone && !localStorage.getItem("hayatus:installDismissed")) {
       els.installBanner.hidden = false;
     }
   });
@@ -301,8 +309,13 @@
     els.installBanner.hidden = true;
     if (deferredPrompt) {
       deferredPrompt.prompt();
-      await deferredPrompt.userChoice;
+      const choice = await deferredPrompt.userChoice;
       deferredPrompt = null;
+      if (choice && choice.outcome === "accepted") {
+        try {
+          localStorage.setItem("hayatus:installDismissed", "1");
+        } catch (e) {}
+      }
     }
   });
   els.dismissInstall.addEventListener("click", () => {
@@ -313,7 +326,11 @@
   });
   window.addEventListener("appinstalled", () => {
     els.installBanner.hidden = true;
+    try {
+      localStorage.setItem("hayatus:installDismissed", "1");
+    } catch (e) {}
   });
+
 
   function updateOnlineStatus() {
     els.offlineBanner.hidden = navigator.onLine;
