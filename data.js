@@ -1946,8 +1946,365 @@ const HAYATUS_DATA = {
    "id": 3,
    "label": "Jilid 3",
    "theme": "Segera hadir",
-   "available": false,
-   "chapters": []
+   "available": true,
+   "chapters": [
+    {
+  "id": 1,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Pembunuhan Abu Ubaidah bin al-Jarrah Terhadap Ayahnya pada Hari Badar",
+  "paragraphs": [
+    "Abu Nu'aim mengeluarkan riwayat dalam kitab al-Hilyah dari Ibnu Syauwzab, ia berkata bahwa ayah Abu Ubaidah bin al-Jarrah radiyallahu 'anhu terus-menerus mengincar anaknya pada hari peperangan Badar.",
+    "Namun, Abu Ubaidah radiyallahu 'anhu selalu berusaha menghindar darinya. Ketika sang ayah semakin gencar melakukannya, Abu Ubaidah radiyallahu 'anhu akhirnya sengaja menghadapinya lalu membunuhnya.",
+    "Berkenaan dengan peristiwa pembunuhan ayahnya ini, Allah menurunkan ayat: 'Kamu tidak akan mendapati sesuatu kaum yang beriman kepada Allah dan hari akhirat, saling berkasih sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapak-bapak, atau anak-anak atau saudara-saudara ataupun keluarga mereka. Mereka itulah orang-orang yang Allah telah menanamkan keimanan dalam hati mereka...' (QS. Al-Mujadilah: 22).",
+    "Kisah yang serupa juga dikeluarkan oleh al-Baihaki dan al-Hakim dari Abdullah bin Syauwzab, di mana al-Baihaki memberikan catatan bahwa riwayat ini munqati' (terputus sanadnya).",
+    "At-Thabrani juga mengeluarkannya dengan sanad yang baik dari Ibnu Syauwzab, sebagaimana yang disebutkan dalam kitab al-Isabah."
+  ]
+},
+{
+  "id": 2,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Kisah Dua Orang Sahabat Bersama Ayah Mereka",
+  "paragraphs": [
+    "Al-Baihaki mengeluarkan riwayat dari Malik bin 'Umair radiyallahu 'anhu-seorang sahabat yang pernah mendapati zaman Jahiliah-ia menceritakan bahwa ada seorang laki-laki yang datang menemui Nabi. Laki-laki itu berkata, 'Sesudah aku bertemu musuh dalam peperangan, ternyata aku mendapati ayahku berada di tengah-tengah mereka. Aku mendengar dia mengucapkan perkataan yang sangat buruk kepadamu, sehingga aku tidak dapat menahan diri sampai akhirnya aku menusuknya dengan tombak-atau hingga aku membunuhnya.'",
+    "Mendengar pengakuan itu, Nabi hanya diam dan tidak mengatakan sepatah kata pun.",
+    "Tidak lama kemudian, datang lagi laki-laki lain dan menceritakan hal yang berbeda, 'Aku telah bertemu dengan ayahku dalam peperangan, tetapi aku membiarkannya dan aku lebih suka jika ada orang lain saja yang menghadapinya.'",
+    "Mendengar hal itu, Nabi memilih untuk diam. Terkait riwayat ini, al-Baihaki memberikan penilaian bahwa ini adalah hadits mursal yang baik."
+  ]
+},
+{
+  "id": 3,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya",
+  "paragraphs": [
+    "Dalam riwayat lain, al-Bazzar mengeluarkan sebuah kisah dari Abu Hurairah radiyallāhu 'anhu.",
+    "Ia menceritakan bahwa suatu ketika Rasulullah berjalan melewati Abdullah bin Ubay yang saat itu sedang berada di bawah naungan bentengnya.",
+    "Abdullah bin Ubay kemudian berkata dengan nada mengejek, 'Anak Abu Kabsyah telah membuat debu beterbangan di hadapan kita.'",
+    "Mendengar perkataan buruk tersebut, anaknya yang juga bernama Abdullah, yaitu Abdullah bin Abdullah radiyallahu 'anhu, mendatangi Rasulullah dan berkata, 'Wahai Rasulullah, demi Zat yang telah memuliakanmu, jika engkau menghendaki, sungguh aku akan membawakan kepalamu kepadanya atau membawa kepalanya kepadamu.'",
+    "Namun, Rasulullah menjawab, 'Tidak, melainkan berbuat baiklah kepada ayahmu dan perbaikilah pergaulanmu bersamanya.'",
+    "Al-Haitsami menyebutkan bahwa hadits ini diriwayatkan oleh al-Bazzar dan para perawinya adalah orang-orang yang terpercaya (thiqat).",
+    "Sementara itu, dalam riwayat at-Thabrani dari Abdullah bin Abdullah, disebutkan bahwa ia memang meminta izin kepada Nabi untuk membunuh ayahnya, tetapi Nabi melarangnya dengan bersabda, 'Jangan engkau membunuh ayahmu.'",
+    "Ibnu Ishaq juga mengeluarkan riwayat dari 'Asim bin 'Umar bin Qatadah, bahwa Abdullah bin Abdullah bin Ubay bin Salul radiyallahu 'anhu mendatangi Rasulullah dan berkata, 'Wahai Rasulullah, sesungguhnya telah sampai kabar kepadaku bahwa engkau ingin membunuh Abdullah bin Ubay karena berita yang sampai kepadamu tentang dirinya. Jika engkau memang benar-benar akan melakukannya, maka perintahkanlah aku untuk mengeksekusinya, sehingga akulah yang akan membawa kepalanya kepadamu. Demi Allah, seluruh kaum Khazraj telah mengetahui bahwa tidak ada seorang pun di antara mereka yang lebih berbakti kepada ayahnya daripada aku. Aku khawatir jika engkau memerintahkan orang lain untuk membunuhnya, jiwaku tidak akan rela melihat pembunuh Abdullah bin Ubay berjalan di tengah-tengah orang banyak, sehingga aku akan membunuhnya. Jika itu terjadi, berarti aku telah membunuh seorang mukmin demi membela seorang kafir, yang menyebabkanku masuk ke dalam neraka.'",
+    "Mendengar penjelasan dan kekhawatiran yang mendalam dari Abdullah, Rasulullah kemudian menenangkan hatinya dengan bersabda, 'Tidak, sebaliknya kita akan bersikap lemah lembut kepadanya dan memperlakukannya dengan persahabatan yang baik selama ia masih tinggal bersama kita.'",
+    "Kisah seperti ini juga termuat di dalam kitab al-Bidayah."
+  ]
+},
+{
+  "id": 4,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya (Bagian Kedua)",
+  "paragraphs": [
+    "At-Thabrani mengeluarkan riwayat dari Usamah bin Zaid radiyallahu 'anhuma, ia mengisahkan bahwa ketika Rasulullah kembali dari perang Bani Mushthaliq, Abdullah bin Abdullah radiyallahu 'anhu berdiri menghadang ayahnya lalu menghunuskan pedang di hadapan ayahnya tersebut.",
+    "Abdullah berkata kepada ayahnya, 'Demi Allah, aku tidak akan menyarungkan pedang ini kembali sampai engkau mengakui: \"Muhammad adalah orang yang paling mulia, dan akulah orang yang paling hina!\"'",
+    "Ayahnya pun terpaksa berkata, 'Celaka kamu, Muhammad adalah orang yang paling mulia dan akulah orang yang paling hina.'",
+    "Kabar mengenai peristiwa ini pun sampai kepada Rasulullah sehingga beliau merasa kagum terhadap tindakan Abdullah dan berterima kasih kepadanya.",
+    "Al-Haitsami memberikan catatan bahwa di dalam sanadnya terdapat Muhammad bin al-Hasan bin Zabalah yang dinilai dhaif (lemah).",
+    "Ibnu Syahin juga mengeluarkan riwayat dengan isnad yang hasan dari Urwah, ia berkata bahwa Hanzhalah bin Abi Amir dan Abdullah bin Abdullah bin Ubay bin Salul radiyallāhu 'anhuma pernah meminta izin kepada Rasulullah untuk membunuh ayah mereka masing-masing, namun Rasulullah melarang keduanya untuk melakukan hal tersebut.",
+    "Kisah seperti ini juga disebutkan di dalam kitab al-Isabah."
+  ]
+},
+{
+  "id": 5,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Abu Bakar dan Anaknya, Abdul Rahman, pada Hari Badar",
+  "paragraphs": [
+    "Ibnu Abi Syaibah mengeluarkan riwayat dari Ayyub, ia menceritakan bahwa Abdul Rahman bin Abu Bakar radiyallahu 'anhuma pernah berkata kepada ayahnya, Abu Bakar radiyallāhu 'anhu, 'Aku melihatmu pada hari peperangan Uhud, namun aku berpaling darimu (tidak ingin membunuhmu).'",
+    "Mendengar hal itu, Abu Bakar radiyallahu 'anhu menjawab, 'Tetapi sekiranya aku melihatmu, niscaya aku tidak akan berpaling darimu.' Kisah seperti ini disebutkan di dalam kitab Kanzul Ummal. Al-Hakim juga mengeluarkan riwayat serupa dari Ayyub.",
+    "Selain itu, al-Hakim menyandarkan riwayat dari al-Waqidi yang menyebutkan bahwa Abdul Rahman pernah menantang untuk berduel satu lawan satu pada hari peperangan Badar. Maka, ayahnya sendiri, yaitu Abu Bakar radiyallahu 'anhu, langsung bangkit berdiri untuk melayaninya berduel. Melihat hal tersebut, Rasulullah bersabda kepada Abu Bakar, 'Biarkanlah kami tetap dapat memanfaatkan dirimu (jangan berduel).' Hal yang serupa juga disebutkan oleh al-Baihaki dari al-Waqidi."
+  ]
+},
+{
+  "id": 6,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Umar dan Said bin al-Ash Mengenai Pembunuhan Ayahnya",
+  "paragraphs": [
+    "Ibnu Hisyam menyebutkan keterangan dari Abu Ubaidah dan para ahli ilmu yang menguasai sejarah peperangan, bahwa Umar bin al-Khathab radiyallahu 'anhu pernah berjalan melewati Said bin al-Ash radiyallahu 'anhu.",
+    "Umar radiyallahu 'anhu kemudian berkata kepadanya, 'Sesungguhnya aku melihat seolah-olah ada sesuatu ganjalan di dalam hatimu. Aku melihat engkau mengira bahwa akulah yang telah membunuh ayahmu. Ketahuilah, sekiranya aku yang membunuhnya, niscaya aku tidak akan meminta maaf kepadamu atas pembunuhan tersebut. Namun yang sebenarnya terjadi, akulah yang membunuh pamanku sendiri dari pihak ibu, yaitu al-Ash bin Hisyam bin al-Mughirah. Adapun mengenai ayahmu, aku memang pernah berjalan melewatinya ketika ia sedang mengamuk dan menanduk-nanduk seperti seekor sapi dengan tanduknya, lalu aku menghindar darinya. Setelah itu, sepupunya yaitu Ali yang mengincarnya kemudian membunuhnya.' Kisah seperti ini termuat di dalam kitab al-Bidayah.",
+    "Di dalam kitab al-Isti'ab dan al-Isabah terdapat kutipan tambahan, di mana Said bin al-Ash menjawab perkataan Umar tersebut dengan berkata, 'Sekiranya engkau yang membunuhnya, niscaya engkau berada di atas kebenaran sedangkan ia berada di atas kebatilan.'",
+    "Jawaban Said tersebut membuat Umar merasa kagum dan menyukai perkataannya."
+  ]
+},
+{
+  "id": 7,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Keadaan Abu Hudzaifah Ketika Melihat Ayahnya Diseret ke Sumur Badar",
+  "paragraphs": [
+    "Ibnu Jarir mengeluarkan riwayat dari Aisyah radiyallahu 'anha, ia mengisahkan bahwa Rasulullah memerintahkan agar jenazah para korban yang tewas dari kaum musyrikin pada hari Badar diseret ke sebuah sumur tua, lalu mereka pun dilemparkan ke dalamnya.",
+    "Setelah itu, Rasulullah berdiri di dekat sumur tersebut and berseru, 'Wahai para penghuni sumur, apakah kalian telah mendapati apa yang dijanjikan oleh Tuhan kalian itu benar? Karena sesungguhnya aku telah mendapati apa yang dijanjikan oleh Tuhanku kepadaku adalah benar.'",
+    "Para sahabat kemudian bertanya, 'Wahai Rasulullah, apakah engkau berbicara kepada kaum yang telah menjadi mayat?'",
+    "Rasulullah menjawab, 'Sungguh mereka sekarang telah mengetahui bahwa apa yang dijanjikan oleh Tuhan mereka adalah benar.'",
+    "Ketika peristiwa itu berlangsung, Abu Hudzaifah bin Utbah radiyallahu 'anhu melihat ayahnya sendiri, yaitu Utbah, sedang diseret untuk dilemparkan ke dalam sumur tua tersebut.",
+    "Rasulullah segera mengenali adanya perubahan raut wajah yang menunjukkan rasa tidak suka pada wajah Abu Hudzaifah.",
+    "Rasulullah pun bertanya kepadanya, 'Wahai Abu Hudzaifah, seolah-olah engkau merasa tidak suka dengan apa yang engkau lihat?'",
+    "Abu Hudzaifah radiyallahu 'anhu menjawab, 'Tidak, demi Allah, wahai Rasulullah. Aku sama sekali tidak meragukan Allah dan Rasul-Nya. Hanya saja, ayahku dahulu dikenal sebagai seorang laki-laki yang memiliki pandangan luas, kemuliaan, dan keutamaan, sehingga aku sangat berharap agar kelebihannya itu dapat menuntunnya kepada hidayah Islam. Namun, ketika aku melihat akhir hidupnya yang berakhir seperti ini, hal itulah yang membuatku merasa sedih.'",
+    "Mendengar penuturan jujur dari sahabatnya, Rasulullah kemudian mendoakan kebaikan untuk Abu Hudzaifah radiyallahu 'anhu.",
+    "Kisah ini disebutkan di dalam kitab Kanzul Ummal. Al-Hakim juga mengeluarkan riwayat serupa dari Aisyah radiyallahu 'anha dan menyatakan bahwa hadits ini sahih sesuai syarat Imam Muslim meskipun al-Bukhari and Muslim tidak mengeluarkannya, dan penilaian kesahihan ini disetujui oleh ad-Dzahabi.",
+    "Ibnu Ishaq juga menyebutkan kisah yang senada tanpa menyertakan sanad, sebagaimana yang termuat di dalam kitab al-Bidayah.",
+    "Di samping itu, al-Hakim menyebutkan riwayat dari Abu az-Zinad yang menerangkan bahwa Abu Hudzaifah radiyallahu 'anhu ikut serta dalam perang Badar dan ia bahkan sempat menantang ayahnya sendiri, Utbah, untuk maju berduel satu lawan satu.",
+    "Riwayat tersebut juga menceritakan tentang bait-bait syair yang diucapkan oleh saudara perempuannya, yaitu Hindun binti Utbah radiyallahu 'anha, mengenai peristiwa duel tersebut.",
+    "Hal yang serupa juga disandarkan oleh al-Baihaki."
+  ]
+},
+{
+  "id": 8,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Kisah Mush'ab bin Umair dengan Saudaranya yang Ditawan pada Perang Badar",
+  "paragraphs": [
+    "Ibnu Ishaq mengeluarkan riwayat dari Nabih bin Wahb, saudara Bani Abdiddar, bahwa ketika Rasulullah kembali dengan membawa para tawanan perang Badar, beliau membagi-bagikan tawanan tersebut di antara para sahabatnya sambil bersabda, 'Perlakukanlah para tawanan ini dengan baik.'",
+    "Di antara para tawanan tersebut, terdapat Abu Aziz bin Umair bin Hasyim, saudara kandung seayah dan seibu dari Mush'ab bin Umair radiyallahu 'anhu.",
+    "Abu Aziz menceritakan peristiwa yang dialaminya, 'Saudara kandungku, Mush'ab bin Umair, berjalan melewatinya ketika seorang laki-laki dari kaum Ansar sedang menawanku. Mush'ab lalu berkata kepada orang Ansar yang menawanku itu, \"Ikatlah kedua tangannya dengan kuat, karena ibunya adalah seorang wanita yang memiliki banyak harta, sehingga diharapkan ibunya akan menebusnya darimu dengan tebusan yang besar!\"'",
+    "Abu Aziz melanjutkan kisahnya, 'Ketika mereka membawaku pulang dari Badar, aku berada di tengah-tengah sekelompok orang Ansar. Sesuai dengan wasiat Rasulullah agar memperlakukan kami dengan baik, setiap kali mereka menghidangkan makanan siang atau malam, mereka selalu mengkhususkan roti untukku sementara mereka sendiri hanya memakan kurma. Tidak ada sepotong roti pun yang jatuh ke tangan salah seorang di antara mereka, melainkan mereka pasti langsung memberikannya kepadaku. Aku merasa malu lalu mengembalikan roti itu kepada mereka, tetapi mereka segera mengembalikannya lagi kepadaku tanpa ada seorang pun yang mau menyentuhnya.'",
+    "Ketika Mush'ab menyampaikan perkataan tersebut kepada Abu al-Yasar-orang Ansar yang menawan Abu Aziz-maka Abu Aziz berkata kepada saudaranya, 'Wahai saudaraku, apakah seperti ini wasiatmu (bantuanmu) terhadap diriku?'",
+    "Mush'ab radiyallahu 'anhu kemudian menjawab, 'Sesungguhnya dia (orang Ansar ini) adalah saudaraku, bukan kamu.'",
+    "Setelah peristiwa itu, ibu Abu Aziz menanyakan tentang tebusan paling mahal yang pernah dibayarkan untuk menebus seorang tawanan Quraisy, lalu diberitahukan kepadanya bahwa tebusan termahal adalah empat ribu dirham.",
+    "Sang ibu pun mengirimkan uang sebesar empat ribu dirham untuk menebus Abu Aziz. Kisah seperti ini termuat di dalam kitab al-Bidayah.",
+    "Sementara itu, al-Waqidi mengeluarkan riwayat dari Ayyub bin an-Nu'man, ia menyebutkan bahwa Abu Aziz bin Umair ditawan pada hari itu oleh Muhriz bin Nadhlah.",
+    "Mush'ab lalu berkata kepada Muhriz, 'Ikatlah kedua tangannya dengan kuat, karena ia memiliki seorang ibu di Mekah yang mempunyai banyak harta.'",
+    "Abu Aziz pun memprotes, 'Apakah seperti ini wasiatmu terhadap diriku, wahai saudaraku?'",
+    "Mush'ab menjawab, 'Sesungguhnya Muhriz ini adalah saudaraku, bukan kamu.' Ibunya kemudian mengirimkan uang menebusnya sebesar empat ribu dirham.",
+    "Kisah ini seperti yang termuat di dalam kitab Nasbu ar-Rayah karya az-Zaila'i."
+  ]
+},
+{
+  "id": 9,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Abu Sufyan dan Putrinya, Ummu Habibah, Ummul Mukminin",
+  "paragraphs": [
+    "Ibnu Saad mengeluarkan riwayat dari az-Zuhri, ia menceritakan bahwa ketika Abu Sufyan bin Harb datang ke Madinah, ia mendatangi Rasulullah karena ingin membicarakan tentang perpanjangan masa gencatan senjata Hudaibiyah, namun Rasulullah tidak menyambut permintaannya tersebut.",
+    "Abu Sufyan kemudian bangkit lalu masuk menemui putrinya, Ummu Habibah radiyallahu 'anha.",
+    "Ketika Abu Sufyan hendak duduk di atas tikar (tempat tidur Nabi), Ummu Habibah segera melipat tikar tersebut agar ayahnya tidak mendudukinya. Abu Sufyan pun bertanya dengan heran, 'Wahai putriku, apakah engkau menganggap tikar ini terlalu bagus untukku, ataukah engkau menganggap aku terlalu mulia untuk tikar ini?'",
+    "Ummu Habibah radiyallahu 'anha menjawab, 'Tikar ini adalah milik Rasulullah sedangkan engkau adalah seorang laki-laki musyrik yang najis.' Abu Sufyan berkata, 'Wahai putriku, demi Allah, engkau telah ditimpa keburukan setelah berpisah dariku.' Ibnu Ishaq juga menyebutkan kisah senada tanpa sanad di dalam kitab al-Bidayah, dengan kutipan tambahan bahwa Ummu Habibah berkata, 'Aku tidak suka engkau duduk di atas tikar Rasulullah.'"
+  ]
+},
+{
+  "id": 10,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Perkataan Ibnu Mas'ud Mengenai Burung Walet dan Anak-Anaknya",
+  "paragraphs": [
+    "Abu Nu'aim mengeluarkan riwayat dalam kitab al-Hilyah dari Abu al-Ahwash, ia menceritakan, 'Kami masuk menemui Ibnu Mas'ud radiyallahu 'anhu, dan di dekatnya ada tiga orang anak laki-lakinya yang ketiganya tampak berseri-seri seperti dinar.",
+    "Kami pun terus memandangi mereka hingga Ibnu Mas'ud menyadari perhatian kami.",
+    "Ia lalu bertanya, \"Seolah-olah kalian merasa iri kepadaku karena mereka?\"",
+    "Kami menjawab, \"Apakah seseorang tidak patut merasa iri atas kehadiran anak-anak yang seperti mereka?\"",
+    "Ibnu Mas'ud kemudian mengangkat kepalanya ke arah langit-langit rumahnya yang rendah, yang ternyata menjadi tempat bersarangnya seekor burung walet.",
+    "Ia lalu berkata, \"Sungguh, sekiranya aku telah mengibaskan kedua tanganku dari tanah kuburan mereka, hal itu jauh lebih aku sukai daripada sebutir telur burung walet ini jatuh lalu pecah.\"",
+    "Dalam riwayat lain dari Abu Utsman, disebutkan bahwa ia pernah duduk bersama Ibnu Mas'ud radiyallahu 'anhu di Kufah. Ketika Ibnu Mas'ud sedang berada di emperan rumahnya pada suatu hari, di dekatnya ada dua orang istrinya yang keduanya merupakan wanita terhormat lagi berparas cantik-dan ia juga memiliki anak dari mereka yang merupakan anak tertampan. Tiba-tiba seekor burung pipit berkicau di atas kepalanya lalu menjatuhkan kotoran dari perutnya. Ibnu Mas'ud kemudian membersihkan kotoran itu dengan tangannya seraya berkata, \"Sungguh, sekiranya keluarga Abdullah mati lalu aku mengiringi jenazah mereka, hal itu jauh lebih aku sukai daripada matanya burung pipit ini.\""
+  ]
+},
+{
+  "id": 11,
+  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Perkataan Umar Mengenai Para Tawanan Perang Badar",
+  "paragraphs": [
+    "Di dalam kitab ini juga telah disebutkan sebelumnya mengenai perkataan Umar radiyallāhu 'anhu saat bermusyawarah bersama para ahli pandangan, 'Demi Allah, pandanganku tidak sama dengan pandangan Abu Bakar, melainkan aku berpendapat agar engkau menyerahkan si fulan-seorang kerabat Umar-kepadaku untuk aku tebas lehernya. Engkau juga menyerahkan Aqil kepada Ali agar ia menebas lehernya, dan engkau menyerahkan si fulan saudara Hamzah kepada Hamzah agar ia menebas lehernya. Hal itu agar Allah mengetahui bahwa di dalam hati kami sama sekali tidak ada rasa kasih sayang terhadap kaum musyrikin.'",
+    "Di samping itu, telah berlalu pula kisah-kisah kaum Ansar mengenai tindakan mereka dalam memutus tali Jahiliah."
+  ]
+},
+{
+  "id": 12,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kecintaan Saad bin Mu'adz Kepada Nabi 'Alaihis Salām",
+  "paragraphs": [
+    "Ibnu Ishaq menyandarkan riwayat dari Abdullah bin Abu Bakar, bahwa Saad bin Mu'adz radiyallahu 'anhu pernah berkata, 'Wahai Nabi Allah, maukah engkau jika kami mendirikan sebuah tenda untukmu sebagai tempat berteduh, lalu kami siapkan kendaraan-kendaraanmu di dekatmu? Setelah itu, barulah kami menghadapi musuh kita. Jika Allah memuliakan kita dan memenangkan kita atas musuh kita, maka itulah yang kita harapkan. Namun, jika yang terjadi adalah hal yang sebaliknya, engkau dapat duduk di atas kendaraanmu lalu menyusul orang-orang dari kaum kami yang berada di belakang kita. Sungguh, orang-orang yang tidak ikut bersamamu itu bukanlah orang-orang yang kalah rasa cintanya kepadamu dibandingkan kami. Seandainya mereka mengira bahwa engkau akan menghadapi peperangan, niscaya mereka tidak akan tertinggal darimu. Allah akan melindungimu melalui mereka, mereka akan selalu menasihatimu dan berjihad bersamamu.'",
+    "Mendengar ketulusan tersebut, Rasulullah memuji Saad dengan kebaikan dan mendoakan kebaikan untuknya, kemudian sebuah tenda pun didirikan untuk Rasulullah dan beliau berada di dalamnya.",
+    "Kisah seperti ini juga disebutkan di dalam kitab al-Bidayah."
+  ]
+},
+{
+  "id": 13,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini",
+  "paragraphs": [
+    "At-Thabrani mengeluarkan riwayat dari Aisyah radiyallahu 'anha, ia menceritakan bahwa ada seorang laki-laki yang mendatangi Nabi lalu berkata, 'Wahai Rasulullah, sesungguhnya engkau benar-benar lebih aku cintai daripada diriku sendiri, dan engkau benar-benar lebih aku cintai daripada anakku. Sungguh, ketika aku sedang berada di rumah lalu aku mengingatmu, aku tidak akan bisa menahan sabar sampai aku datang lalu memandang wajahmu. Namun, ketika aku mengingat kematianku and kematianmu, aku tahu bahwa jika engkau masuk ke dalam surga, engkau akan diangkat tinggi bersama para nabi. Sementara itu, jika aku masuk ke dalam surga, aku khawatir aku tidak akan bisa melihatmu lagi.'",
+    "Nabi tidak memberikan jawaban sedikit pun kepada laki-laki itu sampai Jibril 'alaihis salām turun membawa ayat ini: 'Dan barangsiapa yang menaati Allah dan Rasul-(Nya), mereka itu akan bersama-sama dengan orang-orang yang dianugerahi nikmat oleh Allah, yaitu: Nabi-nabi, para shiddiiqiin, orang-orang yang mati syahid, dan orang-orang saleh.' (QS. An-Nisa: 69).",
+    "Al-Haitsami menyebutkan bahwa hadits ini diriwayatkan oleh at-Thabrani di dalam kitab al-Mu'jam as-Shaghir dan al-Mu'jam al-Awsath, dan para perawinya adalah perawi kitab as-Shahih selain Abdullah bin Imran al-Abidi, yang merupakan seorang perawi terpercaya (thiqat).",
+    "Abu Nu'aim juga mengeluarkan riwayat di dalam kitab al-Hilyah dari Aisyah radiyallahu 'anha dengan redaksi dan sanad yang serupa, seraya memberikan catatan bahwa hadits ini gharib dari hadits Manshur dan Ibrahim, di mana Fudhail menyendiri dalam meriwayatkannya, dan al-Abidi meriwayatkan darinya."
+  ]
+},
+{
+  "id": 14,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini (Jalur Ibnu Abbas)",
+  "paragraphs": [
+    "At-Thabrani juga mengeluarkan riwayat dari Ibnu Abbas radiyallahu 'anhuma, bahwa seorang laki-laki mendatangi Nabi lalu berkata, 'Wahai Rasulullah, sesungguhnya aku benar-benar mencintaimu, sampai-sampai ketika aku mengingatmu, jika aku tidak segera datang untuk memandang wajahmu, niscaya aku merasa jiwaku akan keluar. Kemudian aku mengingat bahwa jika aku masuk ke dalam surga, derajatku pasti berada di bawah derajatmu, sehingga hal itu terasa berat bagiku, padahal aku sangat ingin bersamamu pada derajat yang sama.'",
+    "Rasulullah tidak memberikan jawaban apa pun kepada laki-laki itu, hingga Allah 'Azza wa Jalla menurunkan ayat: 'Dan barangsiapa yang menaati Allah dan Rasul-Nya, mereka itu akan bersama-sama dengan orang-orang yang dianugerahi nikmat oleh Allah, yaitu para nabi...' Setelah ayat itu turun, Rasulullah memanggil laki-laki tersebut lalu membacakannya kepadanya.",
+    "Al-Haitsami memberikan catatan bahwa hadits ini diriwayatkan oleh at-Thabrani, dan di dalam sanadnya terdapat 'Atha bin as-Sa'ib yang hafalannya telah bercampur (ikhtalat)."
+  ]
+},
+{
+  "id": 15,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Sahabat yang Mempersiapkan Kecintaan Kepada Allah dan Rasul-Nya untuk Menghadapi Hari Kiamat",
+  "paragraphs": [
+    "Al-Bukhari dan Muslim mengeluarkan riwayat dari Anas radiyallahu 'anhu, bahwa ada seorang laki-laki yang bertanya kepada Rasulullah 'Kapankah hari kiamat tiba?' Rasulullah balik bertanya, 'Apakah yang telah engkau persiapkan untuk menghadapinya?' Laki-laki itu menjawab, 'Aku tidak mempersiapkan apa-apa, kecuali bahwa aku benar-benar mencintai Allah dan Rasul-Nya.' Rasulullah kemudian bersabda, 'Engkau akan bersama dengan orang yang engkau cintai.' Anas radiyallāhu 'anhu mengungkapkan perasaan para sahabat dengan berkata, 'Kami tidak pernah merasa gembira karena sesuatu sebagaimana kegembiraan kami saat mendengar sabda Nabi \"Engkau akan bersama dengan orang yang engkau cintai.\"' Anas juga menambahkan, 'Maka aku mencintai Nabi, Abu Bakar, dan Umar radiyallahu 'anhuma, dan aku berharap dapat bersama mereka karena kecintaanku kepada mereka.'",
+    "Di dalam salah satu riwayat al-Bukhari, disebutkan bahwa laki-laki tersebut berasal dari penduduk pedalaman (Badui). Ketika ia bertanya tentang kapan hari kiamat tegak berdiri, Rasulullah bersabda, 'Celaka kamu, apakah yang telah engkau persiapkan untuk menghadapinya?'",
+    "Ia menjawab, 'Aku tidak mempersiapkan apa-apa untuk menghadapinya, kecuali bahwa aku mencintai Allah dan Rasul-Nya.'",
+    "Rasulullah bersabda, 'Sesungguhnya engkau akan bersama dengan orang yang engkau cintai.' Kami pun bertanya, 'Apakah kami juga demikian?'",
+    "Rasulullah menjawab, 'Ya.' Maka pada hari itu kami merasa sangat gembira.",
+    "Sementara itu, di dalam riwayat at-Tirmidzi dari Anas, ia menceritakan, 'Aku melihat para sahabat Rasulullah merasa gembira karena sesuatu yang belum pernah aku lihat mereka segembira itu sebelumnya. Ada seorang laki-laki yang bertanya, \"Wahai Rasulullah, bagaimana dengan seorang laki-laki yang mencintai laki-laki lain karena amal kebaikan yang dilakukannya, sedangkan ia sendiri tidak mampu beramal seperti amalan orang tersebut?\"",
+    "Rasulullah menjawab, \"Seseorang akan bersama dengan orang yang dicintainya.\""
+  ]
+},
+{
+  "id": 16,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Sabda Nabi Kepada Abu Dzar: \"Engkau, Wahai Abu Dzar, Bersama Orang yang Engkau Cintai\"",
+  "paragraphs": [
+    "Di dalam riwayat Abu Dawud dari Abu Dzar radiyallahu 'anhu, disebutkan bahwa ia pernah bertanya, 'Wahai Rasulullah, bagaimana dengan seorang laki-laki yang mencintai suatu kaum, tetapi ia tidak mampu beramal sebagaimana amalan mereka?' Rasulullah bersabda, 'Engkau, wahai Abu Dzar, akan bersama dengan orang yang engkau cintai.' Abu Dzar berkata, 'Sesungguhnya aku mencintai Allah dan Rasul-Nya.' Rasulullah menegaskan kembali, 'Sesungguhnya engkau akan bersama dengan orang yang engkau cintai.' Abu Dzar mengulangi perkataannya itu, dan Rasulullah juga mengulangi sabdanya tersebut. Kisah seperti ini tercantum di dalam kitab at-Targhib."
+  ]
+},
+{
+  "id": 17,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ali Bersama Nabi ketika Nabi Ditimpa Kesulitan Hidup",
+  "paragraphs": [
+    "Ibnu Asakir mengeluarkan riwayat dari Ibnu Abbas radiyallahu 'anhuma, ia menceritakan bahwa Nabi Allah pernah ditimpa khasasah (kemiskinan dan kelaparan). Kabar mengenai kondisi tersebut sampai kepada Ali radiyallahu 'anhu, sehingga ia segera keluar untuk mencari pekerjaan demi mendapatkan sesuatu yang bisa digunakan untuk membantu meringankan kesulitan Nabi.",
+    "Ali kemudian mendatangi sebuah kebun milik seorang laki-laki Yahudi untuk mengambilkan air sumur sebanyak tujuh belas timba, dengan upah satu butir kurma untuk setiap timba yang ditariknya.",
+    "Laki-laki Yahudi itu memberikan kebebasan kepada Ali untuk memilih kurmanya, lalu Ali mengambil tujuh belas butir kurma ajwa dan langsung membawanya menemui Nabi. Rasulullah bertanya, 'Dari manakah engkau mendapatkan kurma ini, wahai Abul Hasan?'",
+    "Ali menjawab, 'Telah sampai kabar kepadaku mengenai kesulitan hidup yang sedang engkau alami, wahai Nabi Allah, maka aku keluar mencari pekerjaan agar bisa mendapatkan makanan untukmu.'",
+    "Nabi bersabda, 'Apakah yang mendorongmu melakukan hal ini adalah kecintaanmu kepada Allah dan Rasul-Nya?'",
+    "Ali menjawab, 'Benar, wahai Nabi Allah.' Nabi kemudian bersabda, 'Tidaklah seorang hamba mencintai Allah dan Rasul-Nya melainkan kefakiran akan mengalir kepadanya lebih cepat daripada aliran air bah di permukaan bumi. Dan barangsiapa yang mencintai Allah dan Rasul-Nya, maka hendaklah ia mempersiapkan sebuah tijfaf (baju besi pelindung/tameng) yang kokoh untuk menghadapi cobaan-maksudnya adalah mempersiapkan kesabaran.'",
+    "Kisah seperti ini tercantum di dalam kitab Kanzul Ummal, dan di dalam sanadnya terdapat Hanasy (yang membuat hadits ini lemah)."
+  ]
+},
+{
+  "id": 18,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ka'ab bin Ujrah dalam Perkara Ini",
+  "paragraphs": [
+    "At-Thabrani mengeluarkan riwayat dari Ka'ab bin Ujrah radiyallahu 'anhu, ia mengisahkan, 'Aku pernah mendatangi Nabi lalu aku melihat wajah beliau telah berubah. Aku bertanya, \"Demi ayahku sebagai tebusanmu, mengapa aku melihat wajahmu berubah?\"'",
+    "Beliau menjawab, 'Tidak ada sesuatu pun yang masuk ke dalam perutku yang memiliki hati (mengandung nyawa) semenjak tiga hari ini.'",
+    "Ka'ab melanjutkan kisahnya, 'Maka aku segera pergi, lalu aku mendapati seorang Yahudi sedang memberi minum unta-untanya. Aku pun mengambilkan air untuknya dengan upah satu butir kurma untuk setiap timba, hingga aku berhasil mengumpulkan beberapa butir kurma lalu membawanya menemui Nabi. Beliau bertanya, \"Dari manakah engkau mendapatkan kurma ini, wahai Ka'ab?\"'",
+    "Aku pun menceritakannya kepada beliau. Nabi lalu bertanya, 'Apakah engkau mencintaiku, wahai Ka'ab?'",
+    "Aku menjawab, 'Benar, demi ayahku sebagai tebusanmu!' Beliau bersabda, 'Sesungguhnya kefakiran itu lebih cepat mendatangi orang yang mencintaiku daripada aliran air ke tempat penampungannya. Dan sesungguhnya engkau akan ditimpa cobaan, maka bersiaplah menghadapi tijfaf (cobaan/kesabaran) untuk itu.'",
+    "Beberapa waktu kemudian, Nabi kehilangan Ka'ab karena tidak melihatnya, lalu beliau bertanya, 'Apakah yang dilakukan oleh Ka'ab?' Para sahabat menjawab, 'Ia sedang sakit.' Rasulullah segera keluar berjalan kaki hingga masuk menemui Ka'ab, lalu beliau bersabda, 'Bergembiralah, wahai Ka'ab!' Ibu Ka'ab yang berada di sana menyahut, 'Selamat untukmu, engkau akan mendapatkan surga, wahai Ka'ab!' Melihat hal itu, Nabi bersabda, 'Siapakah wanita yang bersumpah mendahului Allah ini?' Ka'ab menjawab, 'Dia adalah ibuku, wahai Rasulullah.' Beliau bersabda, 'Apakah yang membuatmu tahu, wahai ibu Ka'ab? Boleh jadi Ka'ab pernah mengucapkan sesuatu yang tidak bermanfaat baginya, atau ia pernah menahan hartanya yang sebenarnya tidak membuatnya kaya.'",
+    "Al-Haitsami memberikan catatan bahwa hadits ini diriwayatkan oleh at-Thabrani di dalam kitab al-Awsath dan sanadnya baik. Penilaian serupa juga disebutkan di dalam kitab at-Targhib dari gurunya, al-Hafizh Abul Hasan. Ibnu Asakir juga mengeluarkan riwayat yang serupa, sebagaimana yang tercantum di dalam kitab Kanzul Ummal, hanya saja di dalam redaksinya tertulis: 'Boleh jadi Ka'ab pernah mengucapkan sesuatu yang tidak penting baginya, atau ia menahan sesuatu yang tidak menjadikannya kaya.'"
+  ]
+},
+{
+  "id": 19,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām",
+  "paragraphs": [
+    "At-Thabrani mengeluarkan riwayat dari Hushain bin Wahwah al-Anshari radiyallahu 'anhu, bahwa ketika Thalhah bin al-Bara radiyallahu 'anhuma bertemu dengan Nabi ia langsung menempelkan badannya ke tubuh Rasulullah dan mencium kedua kaki beliau.",
+    "Thalhah kemudian berkata, 'Wahai Rasulullah, perintahkanlah kepadaku apa saja yang engkau sukai, niscaya aku tidak akan menentang perintahmu sedikit pun.'",
+    "Nabi merasa heran dengan ucapan tersebut, padahal saat itu Thalhah masih seorang anak muda. Beliau lalu bersabda kepadanya, 'Pergilah dan bunuhlah ayahmu!'",
+    "Thalhah pun langsung berbalik untuk pergi melaksanakan perintah tersebut. Melihat hal itu, Rasulullah segera memanggilnya kembali dan bersabda, 'Kemarilah! Sesungguhnya aku tidak diutus untuk memutuskan tali silaturahim.'",
+    "Setelah peristiwa itu, Thalhah jatuh sakit pada musim dingin yang disertai cuaca dingin dan berawan. Nabi datang menjenguknya. Ketika hendak pulang, beliau bersabda kepada keluarga Thalhah, 'Aku melihat tanda-tanda kematian pada diri Thalhah, maka jika ia meninggal, segeralah beri tahu aku agar aku bisa menghadirinya dan menyolatinya, serta segerakanlah pengurusannya.'",
+    "Namun, belum sampai Nabi tiba di kediaman Bani Salim bin Auf, Thalhah sudah mengembuskan napas terakhirnya ketika malam telah gelap gulita.",
+    "Sebelum wafat, Thalhah sempat berwasiat kepada keluarganya, 'Kuburkanlah aku dan segerakanlah aku menemui Tuhanku 'Azza wa Jalla, dan janganlah kalian memanggil Rasulullah kemari, karena aku mengkhawatirkan keselamatan beliau dari gangguan kaum Yahudi yang mungkin akan mencelakainya karena kedatangannya demi aku.'",
+    "Ketika pagi hari tiba, kabar kematian Thalhah disampaikan kepada Nabi. Beliau segera mendatangi makamnya, lalu berbaris bersama orang-orang yang ikut menyolatinya. Sambil mengangkat kedua tangannya, Rasulullah berdoa, 'Ya Allah, temuilah Thalhah dalam keadaan Engkau tersenyum kepadanya dan ia pun tersenyum kepada-Mu.'",
+    "Kisah seperti ini tercantum di dalam kitab Kanzul Ummal. Al-Baghawi, Ibnu Abi Khaitsamah, Ibnu Abi Asim, Ibnu Syahin, dan Ibnu as-Sakan juga mengeluarkan riwayat ini sebagaimana disebutkan dalam kitab al-Isabah.",
+    "Al-Haitsami menyebutkan bahwa Abu Dawud meriwayatkan sebagian dari hadits ini dan mendiamkannya, sehingga status hadits ini adalah hasan, insya Allah."
+  ]
+},
+{
+  "id": 20,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām (Jalur Thalhah bin Miskin)",
+  "paragraphs": [
+    "At-Thabrani juga mengeluarkan riwayat dari Thalhah bin Miskin, dari Thalhah bin al-Bara radiyallahu 'anhu, bahwasanya ia pernah mendatangi Nabi lalu berkata, 'Bentangkanlah tanganmu, aku ingin membaiatmu.'",
+    "Beliau bertanya, 'Apakah engkau tetap akan membaiatku walaupun aku memerintahkanmu untuk memutuskan hubungan dengan kedua orang tuamu?' Thalhah menjawab, 'Tidak.'",
+    "Kemudian Thalhah kembali mendatangi beliau dan berkata, 'Bentangkanlah tanganmu, aku ingin membaiatmu.' Beliau bertanya, 'Atas dasar apa?'",
+    "Thalhah menjawab, 'Atas dasar Islam.' Beliau bertanya lagi, 'Walaupun aku memerintahkanmu untuk memutuskan hubungan dengan kedua orang tuamu?'",
+    "Thalhah menjawab, 'Tidak.'",
+    "Thalhah mendatangi beliau untuk ketiga kalinya-padahal ia memiliki seorang ibu dan ia termasuk orang yang paling berbakti kepada ibunya-maka Nabi bersabda kepadanya, 'Wahai Thalhah, sesungguhnya di dalam agama kita tidak ada pemutusan tali silaturahim, tetapi aku hanya ingin memastikan agar tidak ada keraguan di dalam agamamu.'",
+    "Thalhah pun masuk Islam dan menjadi seorang muslim yang baik.",
+    "Beberapa waktu kemudian, Thalhah jatuh sakit lalu Nabi datang menjenguknya. Beliau mendapati Thalhah dalam keadaan pingsan, sehingga Nabi bersabda, 'Aku mengira Thalhah akan wafat pada malam ini, maka jika ia tersadar, segeralah utus seseorang kepadaku.'",
+    "Ketika tengah malam tiba, Thalhah pun tersadar lalu bertanya kepada keluarganya, 'Apakah Nabi datang menjengukku?'",
+    "Mereka menjawab, 'Benar,' lalu mereka memberitahukan kepadanya tentang apa yang disabdakan oleh beliau.",
+    "Thalhah lantas berpesan, 'Janganlah kalian mengirim utusan kepada beliau pada jam seperti ini, karena aku khawatir beliau akan disengat oleh binatang atau tertimpa sesuatu di jalan. Tetapi, jika aku telah wafat, sampaikanlah salamku kepada beliau dan katakan agar beliau memohonkan ampunan untukku.'",
+    "Ketika Nabi selesai melaksanakan shalat subuh, beliau bertanya mengenai keadaan Thalhah, lalu para sahabat memberitahukan tentang kematiannya dan pesan yang ditinggalkannya.",
+    "Rasulullah kemudian mengangkat kedua tangannya seraya berdoa, 'Ya Allah, Temuilah dia dalam keadaan Engkau tersenyum kepadanya dan ia pun tersenyum kepada-Mu.'",
+    "Al-Haitsami memberikan catatan bahwa hadits ini diriwayatkan oleh at-Thabrani secara mursal, dan Abdu Rabbihi bin Shalih tidak ia kenali, sedangkan sisa perawi lainnya dinilai terpercaya (wutsthique)."
+  ]
+},
+{
+  "id": 21,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Abdullah bin Hudzafah Kepada Nabi 'Alaihis Salām",
+  "paragraphs": [
+    "Ibnu Asakir mengeluarkan riwayat dari az-Zuhri, ia menceritakan bahwa Abdullah bin Hudzafah radiyallahu 'anhu pernah diadukan kepada Rasulullah karena ia merupakan seorang yang suka bercanda dan melakukan hal-hal yang tidak serius.",
+    "Mendengar aduan tersebut, Nabi bersabda, 'Biarkanlah dia, karena sesungguhnya ia memiliki isi hati yang mencintai Allah dan Rasul-Nya.'",
+    "Kisah seperti ini tercantum di dalam kitab al-Muntakhab."
+  ]
+},
+{
+  "id": 22,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Sabda Nabi ketika Jenazah Abdullah bin Dzil Bijadain Diangkat",
+  "paragraphs": [
+    "Ibnu Majah, al-Baghawi, Ibnu Mandah, dan Abu Nu'aim mengeluarkan riwayat dari al-Adra' radiyallahu 'anhu, ia mengisahkan, 'Aku datang pada suatu malam untuk menjaga Nabi tiba-tiba ada seorang laki-laki yang membaca Al-Qur'an dengan suara yang keras. Nabi kemudian keluar, lalu aku berkata, \"Wahai Rasulullah, orang ini adalah seorang yang riya.\"'",
+    "Beliau bersabda, 'Dia ini adalah Abdullah bin Dzil Bijadain.'",
+    "Beberapa waktu kemudian, Abdullah wafat di Madinah. Setelah para sahabat selesai mengurus jenazahnya, mereka mengangkat kerandanya, lalu Nabi bersabda, 'Berlemah-lembutlah kepadanya, semoga Allah berlemah-lembut kepadanya, karena sesungguhnya ia dahulu adalah seorang yang mencintai Allah dan Rasul-Nya.'",
+    "Rasulullah juga menghadiri liang kuburnya dan bersabda, 'Lapangkanlah untuknya, semoga Allah melapangkan untuknya.'",
+    "Sebagian sahabat beliau lalu berkata, 'Wahai Rasulullah, sesungguhnya engkau benar-benar merasa sedih atas kematiannya?'",
+    "Beliau menjawab, 'Sesungguhnya ia dahulu adalah seorang yang mencintai Allah dan Rasul-Nya.'",
+    "Kisah seperti ini disebutkan di dalam kitab al-Muntakhab, dengan catatan bahwa di dalam sanadnya terdapat Musa bin Ubaidah ar-Rabadzi yang berstatus dhaif (lemah)."
+  ]
+},
+{
+  "id": 23,
+  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ibnu Umar, Zaid bin ad-Datsinah, dan Khubaib bin Adi Dalam Mencintai Nabi 'Alaihis Salām",
+  "paragraphs": [
+    "Ibnu Saad mengeluarkan riwayat dari Abdul Rahman bin Saad, ia menceritakan, 'Aku pernah berada di dekat Ibnu Umar radiyallahu 'anhuma, tiba-tiba kakinya terserang mati rasa. Aku pun bertanya, \"Wahai Abu Abdul Rahman, ada apa dengan kakimu?\"'",
+    "Ia menjawab, 'Otot-ototnya menegang dari sebelah sini.' Aku katakan, 'Serulah orang yang paling engkau cintai!'",
+    "Ibnu Umar lalu berseru, 'Wahai Muhammad!' seketika itu juga ia langsung dapat meregangkan kakinya kembali.",
+    "Di dalam kitab ini juga telah disebutkan sebelumnya mengenai perkataan Zaid bin ad-Datsinah radiyallahu 'anhu ketika Abu Sufyan bertanya kepadanya sesaat sebelum ia dieksekusi mati, 'Aku bertanya kepadamu demi Allah, wahai Zaid, apakah engkau lebih suka jika Muhammad sekarang berada di tempatmu ini untuk kami tebas lehernya, sementara engkau dapat berkumpul kembali bersama keluargamu?'",
+    "Zaid menjawab, 'Demi Allah, aku sama sekali tidak suka jika Muhammad sekarang berada di tempatnya lalu terkena sebutir duri yang menyakitinya, sementara aku hanya duduk-duduk santai di tengah-tengah keluargaku!'",
+    "Mendengar ketulusan itu, Abu Sufyan berkata, 'Aku belum pernah melihat seorang pun dari manusia yang mencintai orang lain sebagaimana kecintaan para sahabat Muhammad kepada Muhammad.'",
+    "Telah berlalu pula perkataan Khubaib radiyallahu 'anhu ketika orang-orang musyrik menyerunya dan memintanya bersumpah, 'Apakah engkau suka jika Muhammad berada di tempatmu saat ini?'",
+    "Khubaib menjawab, 'Tidak, demi Allah Yang Maha Agung! Aku sama sekali tidak suka jika beliau menebus diriku sementara beliau sendiri terkena sebutir duri yang menusuk kakinya.'",
+    "Kisah-kisah ini menunjukkan betapa besarnya kerelaan para sahabat untuk mengorbankan jiwa mereka demi membela Rasulullah."
+  ]
+},
+{
+  "id": 24,
+  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Tangisan Abu Bakar Saat Pembaiatan Ayahnya dan Keinginannya Agar Abu Thalib Masuk Islam",
+  "paragraphs": [
+    "Umar bin Syabbah, Abu Ya'la, dan Abu Bisyr Samuwaih di dalam kitab al-Fawa'id mengeluarkan riwayat dari Anas radiyallahu 'anhu mengenai kisah masuk Islamnya Abu Quhafah radiyallahu 'anhu. Ketika Abu Quhafah mengulurkan tangannya untuk membaiat Rasulullah, Abu Bakar radiyallahu 'anhu tiba-tiba menangis. Nabi bertanya, 'Apakah yang membuatmu menangis?' Abu Bakar menjawab, 'Sungguh, sekiranya tangan pamanmu (Abu Thalib) yang berada di tempat tangannya ini lalu ia masuk Islam sehingga Allah menyenangkan hatimu, hal itu benar-benar jauh lebih aku sukai daripada ia (ayahku) yang masuk Islam.' Sanad riwayat ini berstatus sahih. Al-Hakim juga mengeluarkan riwayat dari jalur ini dan menyatakan bahwa hadits ini sahih sesuai syarat al-Bukhari dan Muslim.",
+    "Di dalam kitab al-Isabah disebutkan bahwa bagian dialog antara Nabi dan Abu Bakar radiyallahu 'anhu ini tidak termuat di dalam riwayat yang dikeluarkan oleh Abu Ya'la dan al-Hakim.",
+    "At-Thabrani dan al-Bazzar mengeluarkan riwayat dari Ibnu Umar radiyallāhu 'anhuma, ia menceritakan bahwa pada hari pembebasan kota Mekah, Abu Bakar datang membawa ayahnya, Abu Quhafah radiyallahu 'anhuma, dengan menuntunnya dalam keadaan syekh yang telah buta menemui Rasulullah. Melihat hal tersebut, Rasulullah bersabda kepadanya, 'Mengapa engkau tidak membiarkan orang tua ini di rumahnya saja sampai kita sendiri yang mendatanginya?'",
+    "Abu Bakar menjawab, 'Aku menginginkan agar Allah memberinya pahala. Sungguh, kegembiraanku atas masuk Islamnya Abu Thalib benar-benar jauh lebih besar daripada kegembiraanku atas masuk Islamnya ayahku sendiri, karena dengan hal itu aku mengharapkan terwujudnya kesenangan hatimu, wahai Rasulullah.'",
+    "Rasulullah kemudian bersabda, 'Engkau benar.' Al-Haitsami memberikan catatan bahwa di dalam sanadnya terdapat Musa bin Ubaidah (ar-Rabadzi) yang berstatus dhaif (lemah)."
+  ]
+},
+{
+  "id": 25,
+  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Peristiwa yang Terjadi Antara Umar dan al-Abbas Dalam Perkara Ini",
+  "paragraphs": [
+    "Ibnu Mardawaih dan al-Hakim mengeluarkan riwayat dari Ibnu Umar radiyallahu 'anhuma, ia mengisahkan bahwasanya ketika para tawanan perang Badar berhasil ditawan, al-Abbas radiyallahu 'anhu termasuk di antara orang-orang yang ikut tertawan. Ia ditawan oleh seorang laki-laki dari kaum Ansar. Ibnu Umar menceritakan bahwa kaum Ansar sempat mengancam akan membunuh al-Abbas, dan kabar tersebut akhirnya sampai kepada Nabi.",
+    "Nabi lalu bersabda, 'Sesungguhnya aku tidak dapat tidur semalaman ini karena memikirkan pamanku, al-Abbas, lantaran kaum Ansar menyangka bahwa mereka akan membunuhnya.'",
+    "Umar kemudian bertanya, 'Apakah aku perlu mendatangi mereka?' Beliau menjawab, 'Ya.'",
+    "Umar segera mendatangi kaum Ansar lalu berkata kepada mereka, 'Lepaskanlah al-Abbas!'",
+    "Kaum Ansar menjawab, 'Tidak, demi Allah, kami tidak akan melepaskannya.'",
+    "Umar berkata lagi kepada mereka, 'Bagaimana jika pelepasan ini mendatangkan keridhaan Rasulullah?' Mereka menjawab, 'Jika hal itu mendatangkan keridhaan beliau, maka ambillah dia.' Umar pun akhirnya mengambil al-Abbas.",
+    "Setelah al-Abbas berada di tangan Umar, Umar berkata kepadanya, 'Wahai Abbas, masuk Islamlah! Karena demi Allah, sekiranya engkau masuk Islam, hal itu benar-benar jauh lebih aku sukai daripada masuk Islamnya al-Khathab (ayahku sendiri). Dan tidaklah sikapku yang demikian melainkan karena aku tahu bahwa Rasulullah sangat menyukai jika engkau masuk Islam.' Kisah seperti ini termuat di dalam kitab al-Bidayah.",
+    "Sementara itu, di dalam riwayat Ibnu Asakir dari Ibnu Abbas radiyallahu 'anhuma, disebutkan bahwa Umar radiyallahu 'anhu pernah berkata kepada al-Abbas, 'Masuk Islamlah! Karena demi Allah, sekiranya engkau masuk Islam, hal itu benar-benar jauh lebih aku sukai daripada masuk Islamnya al-Khathab. Dan tidaklah sikapku yang demikian melainkan karena aku tahu bahwa Rasulullah sangat menginginkan agar engkau memiliki keutamaan (masuk Islam lebih awal).' Kisah ini seperti yang tercantum di dalam kitab Kanzul Ummal. Di dalam riwayat Ibnu Saad dari as-Sya'bi, disebutkan pula bahwa al-Abbas radiyallahu 'anhu pernah mendesak Umar radiyallahu 'anhu dalam suatu urusan, lalu ia berkata, 'Wahai Amirul Mukminin, bagaimana pendapatmu seandainya ada paman Nabi Musa yang datang kepadamu dalam keadaan muslim, apakah yang akan engkau perbuat kepadanya?' Umar menjawab, 'Demi Allah, aku pasti akan berbuat baik kepadanya.' Al-Abbas lalu berkata, 'Maka ketahuilah, sesungguhnya aku ini adalah paman Muhammad sang Nabi.' Umar berkata, 'Demi Allah, sungguh ayahmu (Abdul Muthalib) benar-benar lebih aku cintai daripada ayahku sendiri!' Al-Abbas terkejut lalu menyahut, 'Allah, Allah! (Benarkah demikian?)' Umar menegaskan, 'Allah! Benar, karena aku tahu bahwa dia (Abdul Muthalib) dahulu lebih dicintai oleh Rasulullah daripada ayahku sendiri, maka aku pun lebih mengutamakan kecintaan Rasulullah di atas kecintaanku sendiri.'",
+    "Ibnu Saad juga mengeluarkan riwayat lain dari Abu Ja'far Muhammad bin Ali, bahwasanya al-Abbas radiyallahu 'anhu pernah mendatangi Umar radiyallahu 'anhu lalu berkata, 'Sesungguhnya Nabi telah memberikan wilayah Bahrain kepadaku sebagai tanah kelolaan.' Umar bertanya, 'Siapakah yang mengetahui hal tersebut?' Al-Abbas menjawab, 'Al-Mughirah bin Syu'bah.' Al-Mughirah pun didatangkan lalu ia memberikan kesaksiannya, namun Umar tetap tidak meluluskan urusan tersebut seolah-olah ia tidak menerima kesaksiannya.",
+    "Al-Abbas kemudian berbicara dengan nada keras kepada Umar. Umar lantas berkata, 'Wahai Abdullah, peganglah tangan ayahmu ini!'-Sufyan meriwayatkan dari selain Amr bahwa Umar kemudian berkata 'Demi Allah, wahai Abul Fadhl, sungguh kelapangan hatiku atas masuk Islammu dahulu benar-benar lebih besar daripada kegembiraanku seandainya al-Khathab masuk Islam, jika memang hal itu demi meraih keridhaan Rasulullah.'"
+  ]
+},
+{
+  "id": 26,
+  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Hadits Abu Said al-Khudri Mengenai Urusan Orang yang Wafat di Madinah",
+  "paragraphs": [
+    "Ibnu Saad mengeluarkan riwayat dari Abu Said al-Khudri radiyallahu 'anhu, ia menceritakan, 'Dahulu, pada masa awal kedatangan Nabi di Madinah, apabila ada salah seorang di antara kami yang hendak wafat, kami segera mendatangi beliau untuk memberitahukannya. Beliau pun akan mendatangi orang tersebut, menghadirinya, serta memohonkan ampunan untuknya sampai orang itu wafat. Setelah ia wafat, barulah beliau dan orang-orang yang bersama beliau pulang. Kadang kala beliau juga tetap duduk menemani sampai jenazahnya dikuburkan, sehingga hal itu sering kali memakan waktu lama dan memberatkan Rasulullah karena beliau tertahan di sana.'",
+    "Ketika kami mengkhawatirkan munculnya kesulitan bagi beliau akibat hal tersebut, sebagian di antara kami berkata kepada sebagian yang lain, 'Demi Allah, alangkah baiknya jika kita tidak usah memberi tahu Nabi tentang kematian seseorang sampai ia benar-benar wafat. Jika ia telah wafat, barulah kita memberi tahu beliau, sehingga hal itu tidak lagi memberatkan beliau dan tidak menahan beliau terlalu lama.' Kami pun akhirnya melaksanakan kesepakatan itu.",
+    "Abu Said melanjutkan, 'Maka kami baru memberi tahu beliau tentang kematian seseorang setelah ia wafat. Beliau kemudian datang, menyolatinya, dan memohonkan ampunan untuknya. Setelah itu, kadang kala beliau langsung pulang dan kadang kala beliau tetap tinggal sampai jenazah itu dikuburkan. Kami terus menjalankan kebiasaan tersebut selama beberapa waktu.'",
+    "Hingga kemudian orang-orang berkata lagi, 'Demi Allah, alangkah baiknya seandainya kita tidak usah merepotkan Rasulullah untuk keluar rumah, melainkan kita sendiri yang mengusung jenazah itu ke dekat kediaman beliau agar beliau bisa menyolatinya di dekat rumahnya. Tindakan seperti itu tentu akan lebih melegakan dan lebih mudah bagi beliau.' Kami pun akhirnya melaksanakan hal tersebut.",
+    "Muhammad bin Umar (al-Waqidi) menjelaskan, 'Maka dari situlah tempat tersebut dinamakan sebagai tempat jenazah (Maudhi' al-Jana'iz), karena jenazah-jenazah dahulu diusung ke sana. Kebiasaan manusia dalam mengusung jenazah mereka dan menyolatinya di tempat tersebut pun terus berlangsung hingga hari ini.'"
+  ]
+},
+{
+  "id": 27,
+  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Kecintaan Umar Kepada Fatimah, Putri Beliau, Karena Kecintaan Nabi Kepadanya",
+  "paragraphs": [
+    "Al-Hakim mengeluarkan riwayat dari Aslam, bahwasanya Umar bin al-Khathab radiyallāhu 'anhu pernah masuk menemui Fatimah, putri Rasulullah. Umar lalu berkata, 'Wahai Fatimah, demi Allah, aku tidak pernah melihat seorang pun yang lebih dicintai oleh Rasulullah daripada dirimu. Dan demi Allah, tidak ada seorang pun dari manusia sesudah ayahmu yang lebih aku cintai daripada dirimu.' Kisah seperti ini tercantum di dalam kitab Kanzul Ummal."
+  ]
+},
+{
+  "id": 28,
+  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Adab Para Sahabat yang Tidak Berani Mengangkat Pandangan Mata Kepada Beliau",
+  "paragraphs": [
+    "Al-Tirmidzi mengeluarkan riwayat dari Anas radiyallahu 'anhu, bahwasanya Rasulullah pernah keluar menemui para sahabatnya dari kalangan kaum Muhajirin dan Ansar ketika mereka sedang duduk-duduk. Di antara mereka terdapat Abu Bakar dan Umar radiyallāhu 'anhuma. Saat itu, tidak ada seorang pun di antara para sahabat yang berani mengangkat pandangan mata untuk menatap wajah beliau, kecuali Abu Bakar dan Umar. Sesungguhnya mereka berdualah yang berani menatap wajah beliau dan beliau pun menatap wajah mereka berdua, lalu mereka saling melemparkan senyuman satu sama lain. Kisah seperti ini disebutkan di dalam kitab as-Syifa karya Qadhi lyadh."
+  ]
+},
+{
+  "id": 29,
+  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Cara Duduk Para Sahabat di Sekitar Beliau",
+  "paragraphs": [
+    "At-Thabrani dan Ibnu Hibban di dalam kitab Shahih-nya mengeluarkan riwayat dari Usamah bin Syarik radiyallahu 'anhu, ia menceritakan, 'Dahulu, kami pernah duduk-duduk di dekat Nabi dengan sikap seolah-olah di atas kepala kami terdapat seekor burung, dan tidak ada seorang pun di antara kami yang berbicara.'",
+    "Tiba-tiba datanglah beberapa orang lalu mereka bertanya, 'Siapakah hamba Allah yang paling dicintai oleh Allah Ta'ala?'",
+    "Beliau menjawab, 'Orang yang paling baik akhlaknya di antara mereka.' Kisah seperti ini termuat di dalam kitab at-Targhib, dengan catatan bahwa para perawi at-Thabrani adalah orang-orang yang dijadikan hujah di dalam kitab as-Shahih.",
+    "Kisah ini juga dikeluarkan oleh empat imam penyusun kitab Sunan (Abu Dawud, at-Tirmidzi, an-Nasa'i, dan Ibnu Majah), dan at-Tirmidzi menyahihkannya, dari Usamah bin Syarik radiyallahu 'anhu, ia berkata, 'Aku mendatangi Nabi sedangkan para sahabatnya berada di sekitar beliau dengan sikap seolah-olah di atas kepala mereka terdapat seekor burung.' Kisah seperti ini disebutkan di dalam kitab Turjumanus Sunnah."
+  ]
+},
+{
+  "id": 30,
+  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Rasa Sungkan yang Dirasakan oleh al-Bara bin Azib Terhadap Nabi",
+  "paragraphs": [
+    "Abu Ya'la mengeluarkan riwayat-dan ia menyahihkannya dari al-Bara bin Azib radiyallāhu 'anhu, bahwasanya ia pernah berkata, 'Sungguh, aku dahulu benar-benar ingin menanyakan suatu perkara kepada Rasulullah namun aku terpaksa menundanya sampai dua tahun karena rasa sungkan (wibawa) yang aku rasakan terhadap beliau.' Kisah seperti ini tercantum di dalam kitab Turjumanus Sunnah."
+  ]
+}
+
+   ]
   },
   {
    "id": 4,
