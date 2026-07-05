@@ -1950,7 +1950,7 @@ const HAYATUS_DATA = {
    "chapters": [
     {
   "id": 1,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Pembunuhan Abu Ubaidah bin al-Jarrah Terhadap Ayahnya pada Hari Badar",
+  "title": "Pembunuhan Abu Ubaidah bin al-Jarrah Terhadap Ayahnya pada Hari Badar",
   "paragraphs": [
     "Abu Nu'aim mengeluarkan riwayat dalam kitab al-Hilyah dari Ibnu Syauwzab, ia berkata bahwa ayah Abu Ubaidah bin al-Jarrah radiyallahu 'anhu terus-menerus mengincar anaknya pada hari peperangan Badar.",
     "Namun, Abu Ubaidah radiyallahu 'anhu selalu berusaha menghindar darinya. Ketika sang ayah semakin gencar melakukannya, Abu Ubaidah radiyallahu 'anhu akhirnya sengaja menghadapinya lalu membunuhnya.",
@@ -1961,7 +1961,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 2,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Kisah Dua Orang Sahabat Bersama Ayah Mereka",
+  "title": "Kisah Dua Orang Sahabat Bersama Ayah Mereka",
   "paragraphs": [
     "Al-Baihaki mengeluarkan riwayat dari Malik bin 'Umair radiyallahu 'anhu-seorang sahabat yang pernah mendapati zaman Jahiliah-ia menceritakan bahwa ada seorang laki-laki yang datang menemui Nabi. Laki-laki itu berkata, 'Sesudah aku bertemu musuh dalam peperangan, ternyata aku mendapati ayahku berada di tengah-tengah mereka. Aku mendengar dia mengucapkan perkataan yang sangat buruk kepadamu, sehingga aku tidak dapat menahan diri sampai akhirnya aku menusuknya dengan tombak-atau hingga aku membunuhnya.'",
     "Mendengar pengakuan itu, Nabi hanya diam dan tidak mengatakan sepatah kata pun.",
@@ -1971,7 +1971,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 3,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya",
+  "title": "Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya",
   "paragraphs": [
     "Dalam riwayat lain, al-Bazzar mengeluarkan sebuah kisah dari Abu Hurairah radiyallāhu 'anhu.",
     "Ia menceritakan bahwa suatu ketika Rasulullah berjalan melewati Abdullah bin Ubay yang saat itu sedang berada di bawah naungan bentengnya.",
@@ -1987,7 +1987,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 4,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya (Bagian Kedua)",
+  "title": "Permohonan Izin Anak Abdullah bin Ubay untuk Membunuh Ayahnya (Bagian Kedua)",
   "paragraphs": [
     "At-Thabrani mengeluarkan riwayat dari Usamah bin Zaid radiyallahu 'anhuma, ia mengisahkan bahwa ketika Rasulullah kembali dari perang Bani Mushthaliq, Abdullah bin Abdullah radiyallahu 'anhu berdiri menghadang ayahnya lalu menghunuskan pedang di hadapan ayahnya tersebut.",
     "Abdullah berkata kepada ayahnya, 'Demi Allah, aku tidak akan menyarungkan pedang ini kembali sampai engkau mengakui: \"Muhammad adalah orang yang paling mulia, dan akulah orang yang paling hina!\"'",
@@ -2000,7 +2000,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 5,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Abu Bakar dan Anaknya, Abdul Rahman, pada Hari Badar",
+  "title": "Peristiwa yang Terjadi Antara Abu Bakar dan Anaknya, Abdul Rahman, pada Hari Badar",
   "paragraphs": [
     "Ibnu Abi Syaibah mengeluarkan riwayat dari Ayyub, ia menceritakan bahwa Abdul Rahman bin Abu Bakar radiyallahu 'anhuma pernah berkata kepada ayahnya, Abu Bakar radiyallāhu 'anhu, 'Aku melihatmu pada hari peperangan Uhud, namun aku berpaling darimu (tidak ingin membunuhmu).'",
     "Mendengar hal itu, Abu Bakar radiyallahu 'anhu menjawab, 'Tetapi sekiranya aku melihatmu, niscaya aku tidak akan berpaling darimu.' Kisah seperti ini disebutkan di dalam kitab Kanzul Ummal. Al-Hakim juga mengeluarkan riwayat serupa dari Ayyub.",
@@ -2009,7 +2009,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 6,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Umar dan Said bin al-Ash Mengenai Pembunuhan Ayahnya",
+  "title": "Peristiwa yang Terjadi Antara Umar dan Said bin al-Ash Mengenai Pembunuhan Ayahnya",
   "paragraphs": [
     "Ibnu Hisyam menyebutkan keterangan dari Abu Ubaidah dan para ahli ilmu yang menguasai sejarah peperangan, bahwa Umar bin al-Khathab radiyallahu 'anhu pernah berjalan melewati Said bin al-Ash radiyallahu 'anhu.",
     "Umar radiyallahu 'anhu kemudian berkata kepadanya, 'Sesungguhnya aku melihat seolah-olah ada sesuatu ganjalan di dalam hatimu. Aku melihat engkau mengira bahwa akulah yang telah membunuh ayahmu. Ketahuilah, sekiranya aku yang membunuhnya, niscaya aku tidak akan meminta maaf kepadamu atas pembunuhan tersebut. Namun yang sebenarnya terjadi, akulah yang membunuh pamanku sendiri dari pihak ibu, yaitu al-Ash bin Hisyam bin al-Mughirah. Adapun mengenai ayahmu, aku memang pernah berjalan melewatinya ketika ia sedang mengamuk dan menanduk-nanduk seperti seekor sapi dengan tanduknya, lalu aku menghindar darinya. Setelah itu, sepupunya yaitu Ali yang mengincarnya kemudian membunuhnya.' Kisah seperti ini termuat di dalam kitab al-Bidayah.",
@@ -2019,7 +2019,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 7,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Keadaan Abu Hudzaifah Ketika Melihat Ayahnya Diseret ke Sumur Badar",
+  "title": "Keadaan Abu Hudzaifah Ketika Melihat Ayahnya Diseret ke Sumur Badar",
   "paragraphs": [
     "Ibnu Jarir mengeluarkan riwayat dari Aisyah radiyallahu 'anha, ia mengisahkan bahwa Rasulullah memerintahkan agar jenazah para korban yang tewas dari kaum musyrikin pada hari Badar diseret ke sebuah sumur tua, lalu mereka pun dilemparkan ke dalamnya.",
     "Setelah itu, Rasulullah berdiri di dekat sumur tersebut and berseru, 'Wahai para penghuni sumur, apakah kalian telah mendapati apa yang dijanjikan oleh Tuhan kalian itu benar? Karena sesungguhnya aku telah mendapati apa yang dijanjikan oleh Tuhanku kepadaku adalah benar.'",
@@ -2039,7 +2039,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 8,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Kisah Mush'ab bin Umair dengan Saudaranya yang Ditawan pada Perang Badar",
+  "title": "Kisah Mush'ab bin Umair dengan Saudaranya yang Ditawan pada Perang Badar",
   "paragraphs": [
     "Ibnu Ishaq mengeluarkan riwayat dari Nabih bin Wahb, saudara Bani Abdiddar, bahwa ketika Rasulullah kembali dengan membawa para tawanan perang Badar, beliau membagi-bagikan tawanan tersebut di antara para sahabatnya sambil bersabda, 'Perlakukanlah para tawanan ini dengan baik.'",
     "Di antara para tawanan tersebut, terdapat Abu Aziz bin Umair bin Hasyim, saudara kandung seayah dan seibu dari Mush'ab bin Umair radiyallahu 'anhu.",
@@ -2058,7 +2058,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 9,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Peristiwa yang Terjadi Antara Abu Sufyan dan Putrinya, Ummu Habibah, Ummul Mukminin",
+  "title": "Peristiwa yang Terjadi Antara Abu Sufyan dan Putrinya, Ummu Habibah, Ummul Mukminin",
   "paragraphs": [
     "Ibnu Saad mengeluarkan riwayat dari az-Zuhri, ia menceritakan bahwa ketika Abu Sufyan bin Harb datang ke Madinah, ia mendatangi Rasulullah karena ingin membicarakan tentang perpanjangan masa gencatan senjata Hudaibiyah, namun Rasulullah tidak menyambut permintaannya tersebut.",
     "Abu Sufyan kemudian bangkit lalu masuk menemui putrinya, Ummu Habibah radiyallahu 'anha.",
@@ -2068,7 +2068,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 10,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Perkataan Ibnu Mas'ud Mengenai Burung Walet dan Anak-Anaknya",
+  "title": "Perkataan Ibnu Mas'ud Mengenai Burung Walet dan Anak-Anaknya",
   "paragraphs": [
     "Abu Nu'aim mengeluarkan riwayat dalam kitab al-Hilyah dari Abu al-Ahwash, ia menceritakan, 'Kami masuk menemui Ibnu Mas'ud radiyallahu 'anhu, dan di dekatnya ada tiga orang anak laki-lakinya yang ketiganya tampak berseri-seri seperti dinar.",
     "Kami pun terus memandangi mereka hingga Ibnu Mas'ud menyadari perhatian kami.",
@@ -2081,7 +2081,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 11,
-  "title": "Pemotongan Tali Jahiliah untuk Menegakkan Tali Islam: Perkataan Umar Mengenai Para Tawanan Perang Badar",
+  "title": "Perkataan Umar Mengenai Para Tawanan Perang Badar",
   "paragraphs": [
     "Di dalam kitab ini juga telah disebutkan sebelumnya mengenai perkataan Umar radiyallāhu 'anhu saat bermusyawarah bersama para ahli pandangan, 'Demi Allah, pandanganku tidak sama dengan pandangan Abu Bakar, melainkan aku berpendapat agar engkau menyerahkan si fulan-seorang kerabat Umar-kepadaku untuk aku tebas lehernya. Engkau juga menyerahkan Aqil kepada Ali agar ia menebas lehernya, dan engkau menyerahkan si fulan saudara Hamzah kepada Hamzah agar ia menebas lehernya. Hal itu agar Allah mengetahui bahwa di dalam hati kami sama sekali tidak ada rasa kasih sayang terhadap kaum musyrikin.'",
     "Di samping itu, telah berlalu pula kisah-kisah kaum Ansar mengenai tindakan mereka dalam memutus tali Jahiliah."
