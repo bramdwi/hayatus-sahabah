@@ -2089,7 +2089,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 12,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kecintaan Saad bin Mu'adz Kepada Nabi 'Alaihis Salām",
+  "title": "Kecintaan Saad bin Mu'adz Kepada Nabi 'Alaihis Salām",
   "paragraphs": [
     "Ibnu Ishaq menyandarkan riwayat dari Abdullah bin Abu Bakar, bahwa Saad bin Mu'adz radiyallahu 'anhu pernah berkata, 'Wahai Nabi Allah, maukah engkau jika kami mendirikan sebuah tenda untukmu sebagai tempat berteduh, lalu kami siapkan kendaraan-kendaraanmu di dekatmu? Setelah itu, barulah kami menghadapi musuh kita. Jika Allah memuliakan kita dan memenangkan kita atas musuh kita, maka itulah yang kita harapkan. Namun, jika yang terjadi adalah hal yang sebaliknya, engkau dapat duduk di atas kendaraanmu lalu menyusul orang-orang dari kaum kami yang berada di belakang kita. Sungguh, orang-orang yang tidak ikut bersamamu itu bukanlah orang-orang yang kalah rasa cintanya kepadamu dibandingkan kami. Seandainya mereka mengira bahwa engkau akan menghadapi peperangan, niscaya mereka tidak akan tertinggal darimu. Allah akan melindungimu melalui mereka, mereka akan selalu menasihatimu dan berjihad bersamamu.'",
     "Mendengar ketulusan tersebut, Rasulullah memuji Saad dengan kebaikan dan mendoakan kebaikan untuknya, kemudian sebuah tenda pun didirikan untuk Rasulullah dan beliau berada di dalamnya.",
@@ -2098,7 +2098,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 13,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini",
+  "title": "Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini",
   "paragraphs": [
     "At-Thabrani mengeluarkan riwayat dari Aisyah radiyallahu 'anha, ia menceritakan bahwa ada seorang laki-laki yang mendatangi Nabi lalu berkata, 'Wahai Rasulullah, sesungguhnya engkau benar-benar lebih aku cintai daripada diriku sendiri, dan engkau benar-benar lebih aku cintai daripada anakku. Sungguh, ketika aku sedang berada di rumah lalu aku mengingatmu, aku tidak akan bisa menahan sabar sampai aku datang lalu memandang wajahmu. Namun, ketika aku mengingat kematianku and kematianmu, aku tahu bahwa jika engkau masuk ke dalam surga, engkau akan diangkat tinggi bersama para nabi. Sementara itu, jika aku masuk ke dalam surga, aku khawatir aku tidak akan bisa melihatmu lagi.'",
     "Nabi tidak memberikan jawaban sedikit pun kepada laki-laki itu sampai Jibril 'alaihis salām turun membawa ayat ini: 'Dan barangsiapa yang menaati Allah dan Rasul-(Nya), mereka itu akan bersama-sama dengan orang-orang yang dianugerahi nikmat oleh Allah, yaitu: Nabi-nabi, para shiddiiqiin, orang-orang yang mati syahid, dan orang-orang saleh.' (QS. An-Nisa: 69).",
@@ -2108,7 +2108,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 14,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini (Jalur Ibnu Abbas)",
+  "title": "Kisah Seorang Sahabat Mengenai Kecintaannya Kepada Nabi 'Alaihis Salām dan Turunnya Ayat Berkenaan dengan Hal Ini (Jalur Ibnu Abbas)",
   "paragraphs": [
     "At-Thabrani juga mengeluarkan riwayat dari Ibnu Abbas radiyallahu 'anhuma, bahwa seorang laki-laki mendatangi Nabi lalu berkata, 'Wahai Rasulullah, sesungguhnya aku benar-benar mencintaimu, sampai-sampai ketika aku mengingatmu, jika aku tidak segera datang untuk memandang wajahmu, niscaya aku merasa jiwaku akan keluar. Kemudian aku mengingat bahwa jika aku masuk ke dalam surga, derajatku pasti berada di bawah derajatmu, sehingga hal itu terasa berat bagiku, padahal aku sangat ingin bersamamu pada derajat yang sama.'",
     "Rasulullah tidak memberikan jawaban apa pun kepada laki-laki itu, hingga Allah 'Azza wa Jalla menurunkan ayat: 'Dan barangsiapa yang menaati Allah dan Rasul-Nya, mereka itu akan bersama-sama dengan orang-orang yang dianugerahi nikmat oleh Allah, yaitu para nabi...' Setelah ayat itu turun, Rasulullah memanggil laki-laki tersebut lalu membacakannya kepadanya.",
@@ -2117,7 +2117,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 15,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Sahabat yang Mempersiapkan Kecintaan Kepada Allah dan Rasul-Nya untuk Menghadapi Hari Kiamat",
+  "title": "Kisah Sahabat yang Mempersiapkan Kecintaan Kepada Allah dan Rasul-Nya untuk Menghadapi Hari Kiamat",
   "paragraphs": [
     "Al-Bukhari dan Muslim mengeluarkan riwayat dari Anas radiyallahu 'anhu, bahwa ada seorang laki-laki yang bertanya kepada Rasulullah 'Kapankah hari kiamat tiba?' Rasulullah balik bertanya, 'Apakah yang telah engkau persiapkan untuk menghadapinya?' Laki-laki itu menjawab, 'Aku tidak mempersiapkan apa-apa, kecuali bahwa aku benar-benar mencintai Allah dan Rasul-Nya.' Rasulullah kemudian bersabda, 'Engkau akan bersama dengan orang yang engkau cintai.' Anas radiyallāhu 'anhu mengungkapkan perasaan para sahabat dengan berkata, 'Kami tidak pernah merasa gembira karena sesuatu sebagaimana kegembiraan kami saat mendengar sabda Nabi \"Engkau akan bersama dengan orang yang engkau cintai.\"' Anas juga menambahkan, 'Maka aku mencintai Nabi, Abu Bakar, dan Umar radiyallahu 'anhuma, dan aku berharap dapat bersama mereka karena kecintaanku kepada mereka.'",
     "Di dalam salah satu riwayat al-Bukhari, disebutkan bahwa laki-laki tersebut berasal dari penduduk pedalaman (Badui). Ketika ia bertanya tentang kapan hari kiamat tegak berdiri, Rasulullah bersabda, 'Celaka kamu, apakah yang telah engkau persiapkan untuk menghadapinya?'",
@@ -2130,14 +2130,14 @@ const HAYATUS_DATA = {
 },
 {
   "id": 16,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Sabda Nabi Kepada Abu Dzar: \"Engkau, Wahai Abu Dzar, Bersama Orang yang Engkau Cintai\"",
+  "title": "Sabda Nabi Kepada Abu Dzar: \"Engkau, Wahai Abu Dzar, Bersama Orang yang Engkau Cintai\"",
   "paragraphs": [
     "Di dalam riwayat Abu Dawud dari Abu Dzar radiyallahu 'anhu, disebutkan bahwa ia pernah bertanya, 'Wahai Rasulullah, bagaimana dengan seorang laki-laki yang mencintai suatu kaum, tetapi ia tidak mampu beramal sebagaimana amalan mereka?' Rasulullah bersabda, 'Engkau, wahai Abu Dzar, akan bersama dengan orang yang engkau cintai.' Abu Dzar berkata, 'Sesungguhnya aku mencintai Allah dan Rasul-Nya.' Rasulullah menegaskan kembali, 'Sesungguhnya engkau akan bersama dengan orang yang engkau cintai.' Abu Dzar mengulangi perkataannya itu, dan Rasulullah juga mengulangi sabdanya tersebut. Kisah seperti ini tercantum di dalam kitab at-Targhib."
   ]
 },
 {
   "id": 17,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ali Bersama Nabi ketika Nabi Ditimpa Kesulitan Hidup",
+  "title": "Kisah Ali Bersama Nabi ketika Nabi Ditimpa Kesulitan Hidup",
   "paragraphs": [
     "Ibnu Asakir mengeluarkan riwayat dari Ibnu Abbas radiyallahu 'anhuma, ia menceritakan bahwa Nabi Allah pernah ditimpa khasasah (kemiskinan dan kelaparan). Kabar mengenai kondisi tersebut sampai kepada Ali radiyallahu 'anhu, sehingga ia segera keluar untuk mencari pekerjaan demi mendapatkan sesuatu yang bisa digunakan untuk membantu meringankan kesulitan Nabi.",
     "Ali kemudian mendatangi sebuah kebun milik seorang laki-laki Yahudi untuk mengambilkan air sumur sebanyak tujuh belas timba, dengan upah satu butir kurma untuk setiap timba yang ditariknya.",
@@ -2150,7 +2150,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 18,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ka'ab bin Ujrah dalam Perkara Ini",
+  "title": "Kisah Ka'ab bin Ujrah dalam Perkara Ini",
   "paragraphs": [
     "At-Thabrani mengeluarkan riwayat dari Ka'ab bin Ujrah radiyallahu 'anhu, ia mengisahkan, 'Aku pernah mendatangi Nabi lalu aku melihat wajah beliau telah berubah. Aku bertanya, \"Demi ayahku sebagai tebusanmu, mengapa aku melihat wajahmu berubah?\"'",
     "Beliau menjawab, 'Tidak ada sesuatu pun yang masuk ke dalam perutku yang memiliki hati (mengandung nyawa) semenjak tiga hari ini.'",
@@ -2163,7 +2163,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 19,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām",
+  "title": "Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām",
   "paragraphs": [
     "At-Thabrani mengeluarkan riwayat dari Hushain bin Wahwah al-Anshari radiyallahu 'anhu, bahwa ketika Thalhah bin al-Bara radiyallahu 'anhuma bertemu dengan Nabi ia langsung menempelkan badannya ke tubuh Rasulullah dan mencium kedua kaki beliau.",
     "Thalhah kemudian berkata, 'Wahai Rasulullah, perintahkanlah kepadaku apa saja yang engkau sukai, niscaya aku tidak akan menentang perintahmu sedikit pun.'",
@@ -2179,7 +2179,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 20,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām (Jalur Thalhah bin Miskin)",
+  "title": "Mahabah Thalhah bin al-Bara kepada Nabi 'Alaihis Salām (Jalur Thalhah bin Miskin)",
   "paragraphs": [
     "At-Thabrani juga mengeluarkan riwayat dari Thalhah bin Miskin, dari Thalhah bin al-Bara radiyallahu 'anhu, bahwasanya ia pernah mendatangi Nabi lalu berkata, 'Bentangkanlah tanganmu, aku ingin membaiatmu.'",
     "Beliau bertanya, 'Apakah engkau tetap akan membaiatku walaupun aku memerintahkanmu untuk memutuskan hubungan dengan kedua orang tuamu?' Thalhah menjawab, 'Tidak.'",
@@ -2199,7 +2199,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 21,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Mahabah Abdullah bin Hudzafah Kepada Nabi 'Alaihis Salām",
+  "title": "Mahabah Abdullah bin Hudzafah Kepada Nabi 'Alaihis Salām",
   "paragraphs": [
     "Ibnu Asakir mengeluarkan riwayat dari az-Zuhri, ia menceritakan bahwa Abdullah bin Hudzafah radiyallahu 'anhu pernah diadukan kepada Rasulullah karena ia merupakan seorang yang suka bercanda dan melakukan hal-hal yang tidak serius.",
     "Mendengar aduan tersebut, Nabi bersabda, 'Biarkanlah dia, karena sesungguhnya ia memiliki isi hati yang mencintai Allah dan Rasul-Nya.'",
@@ -2208,7 +2208,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 22,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Sabda Nabi ketika Jenazah Abdullah bin Dzil Bijadain Diangkat",
+  "title": "Sabda Nabi ketika Jenazah Abdullah bin Dzil Bijadain Diangkat",
   "paragraphs": [
     "Ibnu Majah, al-Baghawi, Ibnu Mandah, dan Abu Nu'aim mengeluarkan riwayat dari al-Adra' radiyallahu 'anhu, ia mengisahkan, 'Aku datang pada suatu malam untuk menjaga Nabi tiba-tiba ada seorang laki-laki yang membaca Al-Qur'an dengan suara yang keras. Nabi kemudian keluar, lalu aku berkata, \"Wahai Rasulullah, orang ini adalah seorang yang riya.\"'",
     "Beliau bersabda, 'Dia ini adalah Abdullah bin Dzil Bijadain.'",
@@ -2221,7 +2221,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 23,
-  "title": "Kecintaan Nabi Terhadap Para Sahabatnya: Kisah Ibnu Umar, Zaid bin ad-Datsinah, dan Khubaib bin Adi Dalam Mencintai Nabi 'Alaihis Salām",
+  "title": "Kisah Ibnu Umar, Zaid bin ad-Datsinah, dan Khubaib bin Adi Dalam Mencintai Nabi 'Alaihis Salām",
   "paragraphs": [
     "Ibnu Saad mengeluarkan riwayat dari Abdul Rahman bin Saad, ia menceritakan, 'Aku pernah berada di dekat Ibnu Umar radiyallahu 'anhuma, tiba-tiba kakinya terserang mati rasa. Aku pun bertanya, \"Wahai Abu Abdul Rahman, ada apa dengan kakimu?\"'",
     "Ia menjawab, 'Otot-ototnya menegang dari sebelah sini.' Aku katakan, 'Serulah orang yang paling engkau cintai!'",
@@ -2236,7 +2236,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 24,
-  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Tangisan Abu Bakar Saat Pembaiatan Ayahnya dan Keinginannya Agar Abu Thalib Masuk Islam",
+  "title": "Tangisan Abu Bakar Saat Pembaiatan Ayahnya dan Keinginannya Agar Abu Thalib Masuk Islam",
   "paragraphs": [
     "Umar bin Syabbah, Abu Ya'la, dan Abu Bisyr Samuwaih di dalam kitab al-Fawa'id mengeluarkan riwayat dari Anas radiyallahu 'anhu mengenai kisah masuk Islamnya Abu Quhafah radiyallahu 'anhu. Ketika Abu Quhafah mengulurkan tangannya untuk membaiat Rasulullah, Abu Bakar radiyallahu 'anhu tiba-tiba menangis. Nabi bertanya, 'Apakah yang membuatmu menangis?' Abu Bakar menjawab, 'Sungguh, sekiranya tangan pamanmu (Abu Thalib) yang berada di tempat tangannya ini lalu ia masuk Islam sehingga Allah menyenangkan hatimu, hal itu benar-benar jauh lebih aku sukai daripada ia (ayahku) yang masuk Islam.' Sanad riwayat ini berstatus sahih. Al-Hakim juga mengeluarkan riwayat dari jalur ini dan menyatakan bahwa hadits ini sahih sesuai syarat al-Bukhari dan Muslim.",
     "Di dalam kitab al-Isabah disebutkan bahwa bagian dialog antara Nabi dan Abu Bakar radiyallahu 'anhu ini tidak termuat di dalam riwayat yang dikeluarkan oleh Abu Ya'la dan al-Hakim.",
@@ -2247,7 +2247,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 25,
-  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Peristiwa yang Terjadi Antara Umar dan al-Abbas Dalam Perkara Ini",
+  "title": "Peristiwa yang Terjadi Antara Umar dan al-Abbas Dalam Perkara Ini",
   "paragraphs": [
     "Ibnu Mardawaih dan al-Hakim mengeluarkan riwayat dari Ibnu Umar radiyallahu 'anhuma, ia mengisahkan bahwasanya ketika para tawanan perang Badar berhasil ditawan, al-Abbas radiyallahu 'anhu termasuk di antara orang-orang yang ikut tertawan. Ia ditawan oleh seorang laki-laki dari kaum Ansar. Ibnu Umar menceritakan bahwa kaum Ansar sempat mengancam akan membunuh al-Abbas, dan kabar tersebut akhirnya sampai kepada Nabi.",
     "Nabi lalu bersabda, 'Sesungguhnya aku tidak dapat tidur semalaman ini karena memikirkan pamanku, al-Abbas, lantaran kaum Ansar menyangka bahwa mereka akan membunuhnya.'",
@@ -2263,7 +2263,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 26,
-  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Hadits Abu Said al-Khudri Mengenai Urusan Orang yang Wafat di Madinah",
+  "title": "Hadits Abu Said al-Khudri Mengenai Urusan Orang yang Wafat di Madinah",
   "paragraphs": [
     "Ibnu Saad mengeluarkan riwayat dari Abu Said al-Khudri radiyallahu 'anhu, ia menceritakan, 'Dahulu, pada masa awal kedatangan Nabi di Madinah, apabila ada salah seorang di antara kami yang hendak wafat, kami segera mendatangi beliau untuk memberitahukannya. Beliau pun akan mendatangi orang tersebut, menghadirinya, serta memohonkan ampunan untuknya sampai orang itu wafat. Setelah ia wafat, barulah beliau dan orang-orang yang bersama beliau pulang. Kadang kala beliau juga tetap duduk menemani sampai jenazahnya dikuburkan, sehingga hal itu sering kali memakan waktu lama dan memberatkan Rasulullah karena beliau tertahan di sana.'",
     "Ketika kami mengkhawatirkan munculnya kesulitan bagi beliau akibat hal tersebut, sebagian di antara kami berkata kepada sebagian yang lain, 'Demi Allah, alangkah baiknya jika kita tidak usah memberi tahu Nabi tentang kematian seseorang sampai ia benar-benar wafat. Jika ia telah wafat, barulah kita memberi tahu beliau, sehingga hal itu tidak lagi memberatkan beliau dan tidak menahan beliau terlalu lama.' Kami pun akhirnya melaksanakan kesepakatan itu.",
@@ -2274,21 +2274,21 @@ const HAYATUS_DATA = {
 },
 {
   "id": 27,
-  "title": "Mengutamakan Kecintaan Kepada Nabi di Atas Kecintaan Kepada Diri Mereka Sendiri: Kecintaan Umar Kepada Fatimah, Putri Beliau, Karena Kecintaan Nabi Kepadanya",
+  "title": "Kecintaan Umar Kepada Fatimah, Putri Beliau, Karena Kecintaan Nabi Kepadanya",
   "paragraphs": [
     "Al-Hakim mengeluarkan riwayat dari Aslam, bahwasanya Umar bin al-Khathab radiyallāhu 'anhu pernah masuk menemui Fatimah, putri Rasulullah. Umar lalu berkata, 'Wahai Fatimah, demi Allah, aku tidak pernah melihat seorang pun yang lebih dicintai oleh Rasulullah daripada dirimu. Dan demi Allah, tidak ada seorang pun dari manusia sesudah ayahmu yang lebih aku cintai daripada dirimu.' Kisah seperti ini tercantum di dalam kitab Kanzul Ummal."
   ]
 },
 {
   "id": 28,
-  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Adab Para Sahabat yang Tidak Berani Mengangkat Pandangan Mata Kepada Beliau",
+  "title": "Adab Para Sahabat yang Tidak Berani Mengangkat Pandangan Mata Kepada Beliau",
   "paragraphs": [
     "Al-Tirmidzi mengeluarkan riwayat dari Anas radiyallahu 'anhu, bahwasanya Rasulullah pernah keluar menemui para sahabatnya dari kalangan kaum Muhajirin dan Ansar ketika mereka sedang duduk-duduk. Di antara mereka terdapat Abu Bakar dan Umar radiyallāhu 'anhuma. Saat itu, tidak ada seorang pun di antara para sahabat yang berani mengangkat pandangan mata untuk menatap wajah beliau, kecuali Abu Bakar dan Umar. Sesungguhnya mereka berdualah yang berani menatap wajah beliau dan beliau pun menatap wajah mereka berdua, lalu mereka saling melemparkan senyuman satu sama lain. Kisah seperti ini disebutkan di dalam kitab as-Syifa karya Qadhi lyadh."
   ]
 },
 {
   "id": 29,
-  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Cara Duduk Para Sahabat di Sekitar Beliau",
+  "title": "Cara Duduk Para Sahabat di Sekitar Beliau",
   "paragraphs": [
     "At-Thabrani dan Ibnu Hibban di dalam kitab Shahih-nya mengeluarkan riwayat dari Usamah bin Syarik radiyallahu 'anhu, ia menceritakan, 'Dahulu, kami pernah duduk-duduk di dekat Nabi dengan sikap seolah-olah di atas kepala kami terdapat seekor burung, dan tidak ada seorang pun di antara kami yang berbicara.'",
     "Tiba-tiba datanglah beberapa orang lalu mereka bertanya, 'Siapakah hamba Allah yang paling dicintai oleh Allah Ta'ala?'",
@@ -2298,7 +2298,7 @@ const HAYATUS_DATA = {
 },
 {
   "id": 30,
-  "title": "Penghormatan dan Pengagungan Terhadap Nabi: Rasa Sungkan yang Dirasakan oleh al-Bara bin Azib Terhadap Nabi",
+  "title": "Rasa Sungkan yang Dirasakan oleh al-Bara bin Azib Terhadap Nabi",
   "paragraphs": [
     "Abu Ya'la mengeluarkan riwayat-dan ia menyahihkannya dari al-Bara bin Azib radiyallāhu 'anhu, bahwasanya ia pernah berkata, 'Sungguh, aku dahulu benar-benar ingin menanyakan suatu perkara kepada Rasulullah namun aku terpaksa menundanya sampai dua tahun karena rasa sungkan (wibawa) yang aku rasakan terhadap beliau.' Kisah seperti ini tercantum di dalam kitab Turjumanus Sunnah."
   ]
